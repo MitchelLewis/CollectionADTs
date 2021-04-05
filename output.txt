@@ -1,0 +1,456 @@
+
+
+Running simulation...with MagicalBag1
+=====================================
+
+
+Time taken to build the dictionary: 371ms
+
+Added 10000 words from dictionary_files/1_ms.dic.
+
+Picking 100 words: cedera	meneruskan	berlangsungnya	dimeterikan	dianugerahkan	Indonesia	kejadian	kasau	madah	Ingatlah	dibekalkan	membanyak	membentangkannya	mengendali	ketengahkan	lagi	keseluruhannya	hanyut	mengekang	gemuk	jangkakan	membasuh	kesembilan	berzakat	berlagak	dekati	jelaskan	komisen	Azizah	kerenah	berfirman	melelapkan	kalendar	jaring	kegelapan	Madinah	berpakaian	ilmuwan	meminati	kedamaian	berkhasiat	menaiki	bini	Atifah	memukulnya	kepialu	buat	Februari	antisosial	dibiak	debunga	Aziah	dilaksana	elegen	disertakan	kebosanan	diulangi	karaktor	budayanya	bagus	didengari	melaporkan	kesakitan	memikir	disangar	Jeneral	membenci	keempat	hampar	Khalifah	berpenumpang	Fauzy	Mahathir	belanjawan	dari	Kekadang	Azirah	ketukangannya	memperdagangkan	berunding	berbunyi	dipelopori	bertentangan	editor	melatah	Kebangsaan	bayan	berdekatan	diredai	kebolehpercayaan	benarnya	lubuk	kecundang	ihsan	angkasa	bangsat	ditumbuhi	berkabus	belit	cih	
+
+Time taken to pick 100 words from the dictionary: 4ms
+Removing 100 words: kemarau	kecoh	berpahat	khurafat	kefasihan	gigihnya	krisis	langganan	anggur	menaranya	bergaung	kandas	memutuskan	diikut	Dekan	membasmi	hadiah	Ishtiaq	memperlihatkan	ciku	menghakimi	bakatnya	adang	dibelai	menghadapi	hukumnya	lantai	hangus	laras	menangguh	mengarahkan	kekalkan	mengelirukan	kawanku	giat	aktivis	buangannya	berkesatuan	bumiputeranya	kuini	kejar	laun	antagonis	melayakkannya	memulas	kilogram	melinjau	kepimpinannya	Intan	makamkan	Brigadier	alami	ditulis	diulit	coreng	bereka	bergambar	Jing	memplagiat	daging	bercabang	melangsaikan	berbukit	kelenjar	Imej	digerak	memahatnya	dikurang	joranku	kesalahannya	lari	berbeza	diterbangkan	diambilkira	menggambarkan	mengagung	dayung	berkelip	jelata	mat	berpadu	berlegar	dikongkong	melekatkan	mengapa	mendapat	khabar	bokor	memadai	mengasyikkan	menghadkan	bermain	kedaifan	bertingkap	dirayakan	Fouad	disasarkan	mencampakkan	Masdan	Isamdar	
+
+Time taken to remove 100 words from the dictionary: 2ms
+
+
+dictionary_files/1_ms.dic with Bag 1 -- Time taken for dictionary construction, word picking and word removal: 371ms, 4ms, 2ms
+
+
+Running simulation...with MagicalBag2
+=====================================
+
+
+Time taken to build the dictionary: 248ms
+
+Added 10000 words from dictionary_files/1_ms.dic.
+
+Picking 100 words: diraja	kasan	kiasan	bulu	kari	ditutupi	memukul	beratkan	cacat	keturunannya	almari	dibebas	mencetus	Manchester	Atan	gus	berpaling	litupan	goreng	diraja	menggugurkan	latam	ilmu	membolak	Jamaluddin	memandang	lanjutan	Denmark	lampu	berlegar	cendera	halau	megah	latihannya	kemenangannya	kepada	mendoakan	Affizah	chef	Khoshim	Copyright@2003MimosBerhad	mengaitkan	berperikemanusiaan	Husri	akar	juruaudit	bagan	kelat	condong	bajak	Andrrea	Kwan	diorientasi	induknya	memadam	gesekan	keterlibatan	kugiran	keldai	dimonopoli	latah	melulu	ketat	diampunkan	geografi	luka	Cheras	menempel	memerangkap	amnya	mekanik	kelakar	mencelah	dimiliki	anakku	kepekaan	Kilausuria	diberhentikan	menggalikan	Inggeris	lesu	fizik	diulang	maraton	Dieksploitasikan	mengapi	kesuntukan	menepis	kerusi	laku	Khim	Ishak	membimbangkan	membuli	layaknya	mambo	kecemerlangan	lantik	aniaya	dikesali	
+
+Time taken to pick 100 words from the dictionary: 1ms
+Removing 100 words: kuali	diculik	bimbang	mengambang	dimaktubkan	membawa	ikutan	memuat	media	dilupuskan	ketengahkan	dibelanjakan	dijawabnya	cucuh	menerbitkan	bantu	logiknya	berkunjung	keutamaan	kecepatan	dicari	berbicara	matrik	diambilnya	diplomasi	kepupusan	lara	awak	bertengkar	disedarkan	disembah	magnetik	dibuai	kenyataan	loyar	digunakannya	binti	disanjung	harinya	dewangga	mengganggunya	kepemimpinan	JPS	Aziman	mayat	memungkiri	kepah	jawatan	Kamal	Bernama	berjaga	istimewa	akulah	kemarau	dahagakan	katik	jambatan	inheren	disaman	hujah	angsa	berkejar	member	bank	konvensional	adalah	bon	abang	berkubu	konsultasi	kemunduran	canai	cukuplah	ingin	individu	Liverpool	Hanizam	gugup	daing	majukan	Ahamad	jitu	hakmilik	melabuhkan	Adom	henti	Berhad	ayahanda	ketenteraman	anggar	berlumpur	ditakung	bimbangkan	gema	memanipulasi	amalan	kami	berjaya	hakim	ayahnya	
+
+Time taken to remove 100 words from the dictionary: 2ms
+
+
+dictionary_files/1_ms.dic with Bag 2 -- Time taken for dictionary construction, word picking and word removal: 248ms, 1ms, 2ms
+
+
+Running simulation...with MagicalBag3
+=====================================
+
+
+Time taken to build the dictionary: 693ms
+
+Added 10000 words from dictionary_files/1_ms.dic.
+
+Picking 100 words: automotif	kasad	menghargai	kecekalan	diraut	Gabenor	berpolitik	melaksana	dikata	kesempurnaannya	kucai	jala	menggasak	menegakkan	idealnya	berwaspada	kebangsaan	bersantai	kepung	menghafal	gerakan	dinyalakan	mempersoal	harinya	menaiktaraf	mengakibatkan	keraguan	huru	bijinya	digoyang	dianjung	libatkan	buyung	Ampang	komunikasi	memandangnya	dalam	iman	jantungnya	heboh	komposisi	maknanya	kamera	meliuk	bomba	dihias	mengendalikannya	diperisterikan	dikemas	lumur	berbumbung	diragut	memekakkan	kondomonium	Khalifah	cintanya	memperkukuhkan	baki	ditekankan	diapi	bimbingan	derhaka	memang	direstui	gadisnya	kecup	gerangan	garu	keletihan	hamis	bakatnya	memperhitungkan	Maju	dari	beribu	mengemaskinikan	cuping	contoh	imigren	memusuhi	jambangan	keresahan	Kelantan	jasa	bahunya	lakon	bertanggungjawab	Basir	konvensyen	diidam	katalis	loyar	kentung	memanggilku	menegurku	kehancuran	memperkaya	diajukan	mendidih	bertaut	
+
+Time taken to pick 100 words from the dictionary: 5ms
+Removing 100 words: buana	kebenaran	gegantang	bawa	kontroversi	kebudayaan	memperhitungkan	kincah	Chhettri	lengah	digantikan	bergandingan	gamat	memfokuskan	kokurikulum	membenarkan	mencuba	memanfaatkannya	dadu	diredhai	kargo	kerjasama	latih	keliru	membebankan	membonceng	Februari	diasingkan	aurat	diterajui	bertitisan	kerapuhan	lain	kebendaan	atur	dianggarkan	Krismas	gembira	Fazlan	disamping	dingin	memusnahkannya	bolehkah	memutar	hadapi	anggotanya	Anuar	mayor	kenalah	kasturi	lusa	membanggakan	berkunci	diancam	berkabus	kajian	digariskan	dilaung	begitupun	cerun	gendang	melunaskannya	dasarnya	diperingati	jeritannya	berikanlah	dilombong	acuh	Mardiyah	melayu	hutang	Letchumy	Adini	interpretasi	berdiam	menganggotai	melukiskannya	berprasangka	biro	Basri	berselerak	haru	antiglobalisasi	dipelopori	berhadapan	jaja	kesudahan	dibukakan	masyhur	kolonel	berkonfrontasi	malangnya	berlesen	Haris	beraneka	bahu	contoh	arakian	khilaf	dirumus	
+
+Time taken to remove 100 words from the dictionary: 4ms
+
+
+dictionary_files/1_ms.dic with Bag 3 -- Time taken for dictionary construction, word picking and word removal: 693ms, 5ms, 4ms
+
+
+Running simulation...with MagicalBag4
+=====================================
+
+
+Time taken to build the dictionary: 10ms
+
+Added 10000 words from dictionary_files/1_ms.dic.
+
+Picking 100 words: fobia	dipenuhi	digantikan	Azha	menebas	estet	konsensus	automotif	berbahas	melebihi	fleksibiliti	Libya	limau	leter	diperbaharui	kesatuan	Jelani	memperakui	ayam	kekunang	melodinya	hipotermia	keluarannya	melabur	dicabar	hidangan	mengandungi	formal	menerpa	hadapannya	berdekad	eloknya	gugusan	kilo	kesah	kelip	Hodri	mempelopori	bala	dirancangkan	Assalamualaikum	diorientasi	lantak	dipaksa	layarnya	membimbangkan	Maha	menggeletar	bermukim	bersifat	cawangannya	mencampurkannya	kegembiraannya	diiktirafkan	dilumpuhkan	kanser	kasah	lembangan	bohong	Kerajaan	mencabutkan	kepala	cucuk	disampaikan	jajahan	defendan	dipelbagaikan	Kupusamy	dicetak	akademi	bintat	gajah	kerasulan	bernafas	Hasmayadi	cerpen	alukannya	Bakhtiar	empangan	membuta	menghangatkan	berstamina	biarpun	Bangkok	golnya	anjakan	memaparkan	dibahaskan	Jakarta	disisih	cetusan	bercakaran	lanjur	judi	bongkok	bersuci	markah	kakanda	jenamanya	keterlibatan	
+
+Time taken to pick 100 words from the dictionary: 21ms
+Removing 100 words: hasta	Ehwal	malu	aduk	dipanjangkan	elak	ketukan	menamatkan	dijalankan	digoyang	mengelungsur	dijajah	didebat	melambaikan	chalet	kuari	bermasam	dibatalkan	Israel	bersaiz	memakan	berjuang	asal	menganggotainya	disfungsi	hal	mempertingkat	bermesyuarat	final	menggesa	gelombang	berbaki	gaduh	fikirkan	harapan	bebanmu	Khamis	Hassalli	marilah	kepelbagaian	jus	dunianya	dibelai	memonopili	komunis	kebodohan	kerahsiaan	Ganeson	membenarkannya	mempersetujui	menandatangani	menenunnya	disembunyikan	dibentangkan	memajukan	cetakan	mempertingkatkan	disenangi	memecat	disaksikannya	khianati	diceburinya	bergolak	berlatar	barus	jejaskan	ditafsirkan	lengan	bertaburan	dimusnahkan	candi	mangkat	membosankan	kesamaan	bersabit	alami	bermasalah	kesenyapan	dikenali	kesempurnaannya	bersamaan	Kahang	berpantang	ibubapa	bukit	asmara	dikhuatirinya	formula	kelindannya	Haleem	mapan	management	fekah	diketahui	disegerakan	jamnya	justeru	ketibaannya	bercantum	dituangkan	
+
+Time taken to remove 100 words from the dictionary: 14ms
+
+
+dictionary_files/1_ms.dic with Bag 4 -- Time taken for dictionary construction, word picking and word removal: 10ms, 21ms, 14ms
+
+
+Running simulation...with MagicalBag5
+=====================================
+
+
+Time taken to build the dictionary: 10ms
+
+Added 10000 words from dictionary_files/1_ms.dic.
+
+Picking 100 words: bersindiket	meliputi	berkabel	lazimnya	ceburi	akuan	diukur	gambarnya	menangis	dihadapinya	masya-Allah	agaknya	beroda	hadiri	diang	berbaki	andaikan	kelolaan	dibacakan	dialirkan	dipimpin	intisari	bahagia	guamnya	keesokannya	memperolehi	bikin	keseronokan	Affizah	efisien	balak	bincangkan	dibawanya	bertemankan	mencantikkan	kelapa	berterbangan	ketam	khususnya	Manap	ditanganinya	lelaki	kabel	Anzar	berlatih	ditampung	kandungnya	kedamaian	bersyarat	bersangka	damai	kotor	Jasin	dipraktikkan	bertingkap	diselubungi	latarbelakang	jajar	lantaran	mendendam	dipertandingkan	menantu	cangkat	infostruktur	anggukkan	lantik	berpuasa	berasa	insani	dikelilingi	bergelumang	ketimuran	menghantarkan	kehadiran	dijanakan	meludah	menakluk	gaul	garing	digolekkan	babu	ahlinya	bertempat	idealnya	dibukukan	jantungnya	gincu	mengampu	amaran	mencarumkan	dibunyikan	diharamkan	ekosistem	diluar	jumlah	korporatnya	laksamana	Belgium	mengenang	jongor	
+
+Time taken to pick 100 words from the dictionary: 11ms
+Removing 100 words: diselesai	mencemarkan	keserasian	beres	darjah	menasihat	guli	membolehkannya	Karimi	karipap	calonnya	dobi	ditongkat	kabel	membebaskannya	membida	cengkerama	kedegilan	mangkuk	kiriman	gawat	khat	granit	ikatan	mendaftarkan	Jaya	bertol	hokinya	keberanian	kemampuannya	menggeruni	asakan	kakang	berteduh	Lembah	kitabnya	disapu	mempelajarinya	Labour	berbuka	diperisterikan	diseludup	ingatnya	kopi	hisap	manusia	kegetiran	konspirasi	Izamuddin	memperlihatkan	berkomputer	melambungnya	memanggil	berbentuk	lauk	membetulkan	enaknya	gayut	markas	cela	Hussain	lalat	ditiupkan	bukanlah	Ithnin	akibat	Berang	insiden	cendawan	bertemu	dihiraukan	cium	insya	belenggu	keizinan	berdirilah	dihadapinya	kecekapan	keraian	alir	kasturi	kemaluan	kartun	menggondol	Habibul	asli	melendut	gerepuh	aluan	fahaman	Jumaah	mengepung	dikenakan	jaluran	bermesra	kepala	jasad	cengkung	menajamkan	keistimewaan	
+
+Time taken to remove 100 words from the dictionary: 12ms
+
+
+dictionary_files/1_ms.dic with Bag 5 -- Time taken for dictionary construction, word picking and word removal: 10ms, 11ms, 12ms
+
+
+Running simulation...with MagicalBag6
+=====================================
+
+
+Time taken to build the dictionary: 18ms
+
+Added 10000 words from dictionary_files/1_ms.dic.
+
+Picking 100 words: kepintaran	dibelah	dihidapinya	banyaklah	berjiwa	mencabutkan	banyakkan	artifak	melebar	menembak	dijalin	Azman	belenggunya	efisien	dataran	memangkin	catuk	mengembara	kuku	memang	mengehendaki	begitupun	berbalas	matrik	kaci	Astro	ketermiskinan	dahulunya	kasur	bertelagah	aneka	izinkan	berangin	kegunaannya	kiblat	kritis	kuak	bersembahyang	bergaris	mencakupi	lega	jiwanya	kalimat	dirindui	kesuma	dilumpuhkan	menemuinya	kerasionalannya	kutang	berbilion	Jusmah	lepak	keci	Fouad	bayang	gulung	menggalakkan	Denmark	ditutup	didaratkan	lokasinya	bungaan	berkenderaan	interlokutori	bahasanya	cerewet	melaporkan	melahirkan	melambung	gosok	gegarannya	kakinya	malapetaka	dijual	Assalamualaikum	idola	kesamaan	mempedulikannya	berkocak	makan	himpitan	hayat	Abani	ketaraan	dinafkahkan	ditembusi	memberinya	handalan	mengekori	imigresen	kombinasinya	malim	ideanya	kegemilangannya	Haniff	mencalonkannya	dalamannya	Bisik	dikilang	gilakan	
+
+Time taken to pick 100 words from the dictionary: 21ms
+Removing 100 words: matanya	belalai	melencongkan	diwarta	cekak	digesa	individualisme	kelima	cecah	Kuning	keusahawan	hampar	berkelulusan	adukkan	Honda	didedahkan	dianggarkan	baru	kepah	hujung	digariskan	bangku	menaiknya	ancaman	jinak	beraneka	dahului	kicau	bezanya	akuatik	diterbitkan	kebangkrapan	jampi	Meng	bermulalah	licin	diamanatkan	lintang	kekukuhan	Azleena	biti	berlapis	bajuku	membangunkannya	baham	Badaruddin	dijangkakan	melafazkan	dikukuhkan	mempopularkan	huru	esak	Choon	dedikasi	bernekad	membudayakan	menghalangnya	luahkan	bibir	mengarah	lampau	jeli	kelubi	makalah	dipijak	godaan	bertempiaran	mengantuk	kelongsong	mencurigai	berijazah	hulu	bersihnya	daulat	mambo	berganda	diserbu	digaul	ketertuaan	dianaktirikan	kejujuran	katak	dua	dipastikan	berkayak	bertepuk	berjumlah	direkod	mengekalkannya	dihancurkan	kesal	dikalahkan	kuiz	makro	barisan	dipangku	lumur	kekitaan	bermusuhan	memeranjatkan	
+
+Time taken to remove 100 words from the dictionary: 16ms
+
+
+dictionary_files/1_ms.dic with Bag 6 -- Time taken for dictionary construction, word picking and word removal: 18ms, 21ms, 16ms
+
+
+Running simulation...with MagicalBag1
+=====================================
+
+
+Time taken to build the dictionary: 1006ms
+
+Added 20000 words from dictionary_files/2_en-GB.dic.
+
+Picking 100 words: lady	Casanova	WWW	harlotry	Salem	tensor	newsreel	run-of-the-mill	archipelago	lamp	scrapie	midfield	bravado	Tarawa	flightiness	exorbitance	Montrachet	ferroelectric	inter-personal	carte	betwixt	organometallic	equipoise	interfacing	toxicology	changeability	change-ringing	pervasiveness	entomb	Tudor	slag	orthorhombic	haggardness	jimmied	saintliness	black-hearted	stringer	Zawahiri	Lorenz	clammy	sackful	interstate	veracities	self-aware	vertex	go-between	sagely	scrip	enrobed	blackly	thieve	crescendos	mini	wino	flatware	rush-hour	Barrett	pentecostal	self-closing	represent	Chinook	large-scale	powerhouse	carious	foretaste	permittivity	mercantile	CDs	harebrained	calorie	delectation	lipid	resolvable	flirtatiousness	quenched	godson	terbium	Swithin	yeast	cheek	appreciably	rhomboidal	initialised	Aidan	corked	polar	compressor	NFS	taffeta	hallelujah	sweepstake	dogmatics	passkey	Fillmore	taro	instal	puniness	all-inclusive	dilute	moose	
+
+Time taken to pick 100 words from the dictionary: 0ms
+Removing 100 words: elicit	valency	sailor	East	self-seeking	pricer	recognisable	allowed	replenish	Terra	truce	ripple	sketch	pot-shot	rest	mallet	constitute	gadabout	devotional	mesmerized	dauphin	no-claims	lawmaking	garbler	anus	hamstring	Saddam	sheepskin	WNO	luridness	impedimenta	woodblock	capture	collects	corundum	mettlesome	gynaecology	Tanaka	Atari	bloodline	glim	kudos	self-righteous	exurban	ombudsman	relentlessness	smallholder	purposive	mesmerizing	Clyde	Somalia	ultra	K	whatsoever	leonine	inset	chokeberry	grout	death-warrant	werewolf	carat	blackball	beagle	litre	amanuensis	pyruvic	fatherland	Redondo	truss	lorry	authorization	Cole	fierce	south-westerlies	scarify	Christie	chum	Suzanne	demotivate	inquire	clang	nethermost	morphogenesis	inexorability	marzipan	homogeneousness	amanuenses	despicable	paired	Jeannie	protectedly	clitorides	rude	haft	sputum	fratricidal	floweriness	expediently	leper	'twixt	
+
+Time taken to remove 100 words from the dictionary: 1ms
+
+
+dictionary_files/2_en-GB.dic with Bag 1 -- Time taken for dictionary construction, word picking and word removal: 1006ms, 0ms, 1ms
+
+
+Running simulation...with MagicalBag2
+=====================================
+
+
+Time taken to build the dictionary: 1132ms
+
+Added 20000 words from dictionary_files/2_en-GB.dic.
+
+Picking 100 words: surcharge	phonemics	transcendent	Allegheny	journalist	deathly	thalami	escalator	Gretchen	torrential	ghostlike	tinfoil	ostensible	ratiocinate	shipping	foamer	sallow	substrate	Astoria	antiquary	desultory	headship	gradualist	rate-cap	castrato	fair-weather	humiliation	elegance	wart	Hans	communicates	Sonja	deep-frozen	encyclical	sherds	olefin	melted	determinacy	applicable	appendectomy	language	life-preserver	miscommunicate	seawall	clarion	wickerwork	spinsterish	ramshackle	Zimmerman	nounal	shelflike	antral	googly	passkey	dissimilitude	absentia	Jameson	slam	mesdemoiselles	bathwater	garment's	PRC	trolleybus	swingeing	sailing-master	crafter	Mohamed	ballsy	tingeing	lummox's	graveyard	spider	attrition	hydrogen	Moravia	dioxide	cynosure	record-breaking	coal-fired	sawbones	Marilyn	trade-in	amity	bronzing	pad	immanency	resistible	eradicator	interim	brinkmanship	genially	buzzword	CSEU	nightdress	ins	madden	entrench	in-store	aide-de-camp	desecrater	
+
+Time taken to pick 100 words from the dictionary: 1ms
+Removing 100 words: brushlike	audiophile	cumbersomeness	Antigua	coating	stabled	intercommunicate	storer	Cleveland	realistic	eliminate	rigorousness	Sullivan	reversibly	charted	Sirius	lacerate	Merrill	selenography	folksy	organic	microbicide	Domesday	storyteller	Nguyen	pushover	courier	clouded	yum	Garbo	skulk	teacup	auto-suggestibility	Muhammadanism	earthmover	kaput	pal	wolfram	vaccine	conformable	bearish	Santo	monkeyshine	sticky	infix	alpha	icebox	mistiness	dhoti	postage	chemotherapeutic	Mimi	Leif	Maidstone	reciprocation	providence	mod	carpetbag	Walt	inspirer	composed	cul	oarlock	intimidate	dilute	tenaciousness	drawee	Martinson	newbie	redbrick	mélange	intrusiveness	Whitsuntide	metabolic	minuteness	tray	trusty	acidification	torch	halfness	organiser	sect's	Preston	omnipotence	hypothesis	gnaw	ISSN	armload	metempsychosis	McPherson	effrontery	healthcare	assent	nighthawk	anus	disbelieve	seahorse	formulate	smoke	hast	
+
+Time taken to remove 100 words from the dictionary: 0ms
+
+
+dictionary_files/2_en-GB.dic with Bag 2 -- Time taken for dictionary construction, word picking and word removal: 1132ms, 1ms, 0ms
+
+
+Running simulation...with MagicalBag3
+=====================================
+
+
+Time taken to build the dictionary: 2081ms
+
+Added 20000 words from dictionary_files/2_en-GB.dic.
+
+Picking 100 words: frisky	custom-made	couch	photofinishing	customised	cycled	meningitis	hailstorm	canyon	dictum	interquartile	rebroadcast	barleycorn	pitch	abnormality	lays	bast	imperil	ex-president	tripping	metabolize	catalyse	woodchuck	drug	magnetometer	viscus	disproportion	hoard	sepal	pared	NASA	Nairobi	last-minute	inspiration	Haydn	Rudy	non	compression	monolingualism	Apollo	lengthwise	placental	summons	concealed	mountaintop	viscosity	distribute	Malagasy	motorboat	all-star	evaluate	Unix	parliament	heterosexual	inseminate	flamenco	horsier	Gadsden	mammoth	abaft	Frazer	however	romance	pistole	tentativeness	Thelma	opportunism	multi-user	rectory	mongoloid	cramper	poodle	sleety	incubation	Tewkesbury	conchs	winter's	forward-looking	crawl	faculty	mitosis	ambuscade	bursitis	cruise	delete	Al-Sharif	highfalutin	scentless	dorky	efferent	ninety-onefold	Comte	humiliation	void	frown	bric	evocative	remember	disciplinary	comforter	
+
+Time taken to pick 100 words from the dictionary: 4ms
+Removing 100 words: eastern	Berlin	scalene	criterion	profiteer	mishap	child	oiliness	passkey	Hauser	crayon	likeability	Circe	Nordstrom	Xenix	luminous	caecitis	sideshow	Ehrlich	indiscriminate	redirection	creaminess	deserve	hearted	subtenancy	plucker	hard-heartedness	doublethink	Adler	siege	close-knit	skew-eyed	drowsiness	gold-plated	aim	satori	mizzen	Mickelson	self-parody	gasworks	outfox	rotifer	frolic	boniness	partake	decoy	amateurish	locative	froufrou	Durham	sunblock	grasp	dietician	ethanol	ovary	Mycenaean	pebbling	exactly	standardised	bespatter	Mary	steadying	coprolite	complicit	laevorotatory	ballyhoo	brag	cameo	Ignatius	abridged	stand-offish	Stilton	blitheness	exiguity	cossacks	radiance	promising	amyl	alienist	intifada	stake	gun	tomfool	polka	balanced	jay	tonguing	Kimberley	lighted	canny	accede	verboten	guest	who	sure-footed	Verna	medical	organelle	brim	cultivable	
+
+Time taken to remove 100 words from the dictionary: 5ms
+
+
+dictionary_files/2_en-GB.dic with Bag 3 -- Time taken for dictionary construction, word picking and word removal: 2081ms, 4ms, 5ms
+
+
+Running simulation...with MagicalBag4
+=====================================
+
+
+Time taken to build the dictionary: 9ms
+
+Added 20000 words from dictionary_files/2_en-GB.dic.
+
+Picking 100 words: quaff	antiperspirant	fish-plate	infrequent	trap	regulated	cruise	hairdo	annunciation	barbell	dolomite	multitudinous	ordered	demolish	adrenal	midlives	time-spans	Schlitz	Lancaster	Lisa	Terpsichorean	pearly	lodestar	Marvin	Bluebeard	remittance	oven	Thracian	Schwartz	Seleucid	habited	generous	heroine	polemicist	Aristophanes	intransitiveness	fanzine	oxide	Lyn	presumer	twine	um	bracken	income	authoritarian	blackness	McLeod	clayiest	saloon	Aleppo	meteor	non-verbal	jiu	countermand	defensibility	imbruing	tension	adverb	theft	satori	Parisian	chiaroscuro	Kitakyushu	polysaccharides	synaesthetic	frumpy	bristols	strung	foremost	innuendoes	gnu	cringe	Ithaca	clinical	lachrymose	maternal	pervasion	dissonant	complaint	shapeliness	Hawkins	lee	cometary	subvert	prestidigitate	headwall	knight-errantry	pales	phobic	clichéd	Toyota	petrology	Gorham	ne'er-do-wells	furring	bounded	peen	servomechanism	hind	Marta	
+
+Time taken to pick 100 words from the dictionary: 20ms
+Removing 100 words: coniferous	BTU	globularity	lime	reissue	clove	Tb	dreamland	pizza	clasp-knife	homely	mingle	arm	monstrosity	nodule	stunning	sultan	metempsychosis	rope	sheepwalk	irrupt	hyperactivity	homework	stubby	doe	churn	propagation	heartedness	intentionality	fixable	Melvyn	encase	Aggie	manifest	autocross	Jorge	tongue-tied	Trafford	escapology	ties	cud	collide	hymnographer	levelness	latch	Northfield	senna	casbah	coquetry	opacity	promenade	Walt	moil	percuss	sickle-feather	resistible	fiasco	Barnet	jiggly	orthodontic	peril	equability	mukluk's	chemurgy	lain	Puccini	etch	resistibly	tom-tom	teacup	annuitant	innocuous	popular	Bantu	submersible	ail	compensated	room-mate	instate	synopses	forbade	gasify	religion	Bertha	schooled	seventy-six	apotheoses	apposite	classicism	period	riven	glacier	non-tarnishable	awkward	trousseaux	nit	historical	fie	wound	caucus	
+
+Time taken to remove 100 words from the dictionary: 24ms
+
+
+dictionary_files/2_en-GB.dic with Bag 4 -- Time taken for dictionary construction, word picking and word removal: 9ms, 20ms, 24ms
+
+
+Running simulation...with MagicalBag5
+=====================================
+
+
+Time taken to build the dictionary: 10ms
+
+Added 20000 words from dictionary_files/2_en-GB.dic.
+
+Picking 100 words: citron	cancerous	dental	stonework	gold-plated	squelchy	outbacker	pound	solid	approbation	gourmandise	genocide	facilitate	elapse	municipality	timpanist	ownership	interim	willingness	Slocum	curvy	clamber	brachia	isostatic	France	curly	antiquary	Xi'an	courier	Belfast	standoffish	Theodosius	caresser	enfold	bonhomie	prosodic	juniper	tick-tock	tweed	analytical	reports	phalanges	nightspot	intestate	CD	deductibility	defeated	Editor-At-Large	disruptor	conjugacy	accept	inert	aircraft	blunt	Viet	usherette	Manton	settle	eliteness	sportswear	annul	metabolism	N'Djamena	telephone	seaway	catlike	indubitable	Slade	heritable	Miranda	languidness	lubrication	hiring	non-sexist	merchantmen	infringe	Josephine	firmly	prepack	conversant	clichéd	alpha	corollary	accountable	Daley	credit's	bighead	laywoman	thereabout	far-reaching	deliberateness	Oliver	wise	technical	russet	floridness	Golding	dental	pleasurable	metaphysical	
+
+Time taken to pick 100 words from the dictionary: 16ms
+Removing 100 words: Cambridgeshire	intestinal	jodhpurs	type	binaural	agoraphobic	cussed	insulter	Lego	wrought-iron	nib	contrapuntal	onyx	dastardly	disjunctive	self-sufficiency	naphthalene	Silesia	caddie	dusty	Buxtehude	Barbette	Theodosius	Barents	curator	forefather	respire	boll	corm	diatribe	Broxtowe	Rhinelander	combat	kudos	handedly	Mogadishu	map	Martha	affability	well-known	attained	pantomime	re-election	combustion	deniable	non-disclosure	teamwork	cybernetic	dietetic	half-baked	rose-coloured	shipowner	lens	flyover	vii	citron	dug	cheetah	associate	Jardine	memorable	hooey	phantasm	bray	historiographer	death-knell	overcorrection	Pythagorean	divers	micro-organism	hair-splitting	Viennese	leeway	combinator	burial	sire	mainland	lark	infix	Sassoon	cholinesterase	youth	satire	bee	verifiable	attaches	track-laying	rheostat	Artie	Estelle	macromolecular	interocular	stimuli	childproof	ponderous	attached	cent	implementation	superb	aeolian	
+
+Time taken to remove 100 words from the dictionary: 14ms
+
+
+dictionary_files/2_en-GB.dic with Bag 5 -- Time taken for dictionary construction, word picking and word removal: 10ms, 16ms, 14ms
+
+
+Running simulation...with MagicalBag6
+=====================================
+
+
+Time taken to build the dictionary: 16ms
+
+Added 20000 words from dictionary_files/2_en-GB.dic.
+
+Picking 100 words: draw	uncurl	instate	livelong	perspicacious	differenced	quid	Cauchy	diaper	orang-outang	layering	Stratford	bilge	lapdog	janissary	fête	second-best	exacter	imprison	lampoon	pee	pyramidal	Georgian	saturnine	enumerating	gallonage	taking	soundness	Marco	assen	courtesied	dogtrot	seasonableness	opera	Spackle	Saskatchewan	Ranchi	deform	hominess's	Oct	porthole	hypnosis	mammoth	Jamaican	USS	spongy	bonkers	scrupulousness	face's	homoeostases	Mammalia	sensibly	graduate's	braiding	serene	haircut	barbershop	smirk	excite	gallon	scraggly	suggestive	non-striking	styli	Harbhajan	Lisa	Bangkok	mythology	bulgy	itchy	parochialism	clairvoyant	bitterest	environmentalism	matchlock	rapport	unload	sommelier	mainmast	seditious	pyramidal	patient	deliberateness	overbook	toll-gate	camisole	Chancellorship	rage	fiord	hahnium	acetate	DiMaggio	skiff	girth	Sinai	selfish	sonatina	harmlessness	eggplant	misfeasance	
+
+Time taken to pick 100 words from the dictionary: 28ms
+Removing 100 words: changeability	llama	kerb	protrude	hell-cat	sheltered	foresight	trusting	crunch	imperial	invincible	mantle	bunkhouse	dorky	candidness	agglomerate	ports	erysipelas	sea-green	sciatic	sermon	matriarch	mentality	fudge	Marriott	terrestrial	fatwa	adsorbate	halvers	fellow	gannet	slenderer	radii	lord	cock-and-bull	electable	routine	fraternal	Leblanc	Muscat	raccoon	spinnaker	facial	rickety	combustibility	Clara	cold-bloodedness	aromatic	sell-by	scheduling	parasitic	non-literary	immerser	slap	teddy	negligent	bum	chanticleer	Dorothea	woodlander	partisanship	span	relater	ETA	helplessness	someday	Weston	prosecutable	large-scale	remorsefulness	implicate	jugglery	fifty-nine	Fritz	banding	Brunel	classicism	dispirited	hob	forgoes	seascape	Neanderthal	photoreceptor	litigant	Hellenize	brainwashing	real	abettor	Tijuana	expunger	criticality	Daley	Marmite	bracketing	GSA	avowal	inheritable	cornstalk	wasp	Vatican	
+
+Time taken to remove 100 words from the dictionary: 24ms
+
+
+dictionary_files/2_en-GB.dic with Bag 6 -- Time taken for dictionary construction, word picking and word removal: 16ms, 28ms, 24ms
+
+
+Running simulation...with MagicalBag1
+=====================================
+
+
+Time taken to build the dictionary: 7857ms
+
+Added 50000 words from dictionary_files/3_ru.dic.
+
+Picking 100 words: ЧСкЯФЩЮСЭЩоХгЫЩЪ	ЫСевйЪ	ЬХЫгЩЫЯЬЯЧЩоХгЫЩЪ	СвоЯзйЪ	ФзеШЯЬЭЩХ	ЧЯЬеТУЯз	кСдзЯвЩзлЩЪ	зйгдежЩзСди	СвйоЮйЪ	ЫегдСвЮЩЫ	кСгдСзСди	кФЯвЯзбЫ	СЮдХЮСдСЬиЮйЪ	зЯкЯЫ	збкСЬинЩЫ	ЧЬбЮеди	ЧЯвЮЯгаСгСдХЬиЮйЪ	зкСЩЭЯкСзЩгЩЭЯгди	кСаЬХоЩЫЯз	ЩкжЩзлЩЪ	зЮЩЫЮеЬ	ЩкйЭСХдгб	зкФезСди	зйЭХдеги	зйТЯвЮйЪ	ТЩЬЩЮХЪЮйЪ	ТХкзХдвХЮЮЯгди	СЭЩФ	ТХЮХЦЩг	ЧЯЮФевСггЫЩЪ	зЯкЮХгХЮЩХ	ЩгдеЫСЮ	рзХЮСЬЩЪ	ФЯЬЯдУХ	СЭХТЯЯТвСкЮйЪ	зЯкЮСЧвСФЩдигб	ФзЯЪЮЩЫЯзйЪ	ЩгЬСЮФУХз	зйкзСзлЩЪ	ХаСЮоЯЪ	ФЩгдЯЮЩб	зЯкжХЬСзлЩЪ	ЫЯЮдЩЮеСЬиЮйЪ	кСаХоСдСЮЮйЪ	кСзйлСзлЩЪгб	кСЬЩдигб	СдвСзЭСдЩоХгЫЩЪ	кСзЩЮоЩзСХЭйЪ	ЧвСЮЩоСнЩЪ	ТвЩЧСФЩвлС	ЬЩкСЮЮйЪ	ТЩли	зТЩвСдигб	зйЫвЩЫЮеди	њЭХХЮЯгУХЭ	згаСШЩзСХЭйЪ	зйгЫЯТЬЩдигб	ФХЮСдевСд	яЬЩЭа	ЫеЪТйлХзгЫЩЪ	СЮЧСв	кСФеЭСдигб	зХбЬинЩЫ	зйгоЩдйзСЮЩХ	ТХгШЯкЮЯгди	ТеЬСдЮйЪ	ТХЬЬХдвЩгдЩЫС	кСЩЭгдзЯзСдигб	зСдЮЩЫ	ФХЦЩЮЩдЩз	ЫеЬеСвЯз	зйТиРд	ТвйЫЮедигб	ЬРУЩЦХвСкС	№ХвгХЦЯЮС	ЫСзСвФСЫ	ФЩвЩжХвгдзЯ	ЬЯЮжХвЯЮ	ТСШвЯЭЯЫведЩЬиЮйЪ	ЫЯЮгаЩвСдЩзЮйЪ	ЫЩЮЯзХФХЮЩХ	кСавЯХЫдЩвЯзСзлЩЪ	ФХЬиУЯЭ	ЧЩФвЯЬЩкСдЯз	ЧЯвТЩЫ	сЫдРТЩЮгЫ	ФЩгЫзСЬЩЦЩУЩвЯзСди	ТвСЮФгаЯЪд	зйкзЯЬбзлЩЪ	здЯвЯгдХаХЮХЮ	ФХгбдЩФЮХзЮйЪ	кСЭЯЬоСди	ЫеЫгЩдигб	кСХФСРнЩЪ	ТЬСЧЯвЯФгдзЯ	зФСзЬЩзСди	ўеб	СЫдеСЬЩкЩвеРдгб	кСжХзСзлЩЪ	ЫЯЧЯди	
+
+Time taken to pick 100 words from the dictionary: 0ms
+Removing 100 words: ЫЯгЩзлЩЪгб	кСдХзСРнЩЪгб	зЫЬСФЫС	ФЩгЫзСЬЩЦЩУЩвЯзСЮЮйЪ	СЮЮеЬЩвЯзСди	кСгСжЩзСзлЩЪ	кСЭлХзйЪ	ФЯдеФС	ФЩСЬЩк	кСТвСгйзСдигб	зйЭЯвЯоЮйЪ	кСгЮЩЭХдХ	ТвйЮкС	ЫЯЬЬСжХЭ	ФХЮХЫ	ЩгайдйзСди	здЩгЮезлЩЪгб	кСЧЩТСЮЩХ	кСзЬХоХЮЮйЪ	зйдвХкзЩдХЬи	ЩкзХФСЮЮйЪ	ЧегдЯзСдйЪ	ЫЯЭЬХзйЪ	ЫЯЮиЫЯТХжЫС	кСЭХЮбзлЩЪ	зйоХвЫЮедгб	здХЫСЮЩХ	зкЧвХзлЩЪ	ТЯгЮЩЪгЫЩЪ	ЩЭЭЯвдХЬи	зкЮекФйзСРнЩЪ	кХзЯЫ	забдХвЯЭ	кСТЯвЮйЪ	сЦСЮСгЩЪ	кСдЯЮеди	ЩеФЩЮ	кСвЯФбдгб	зйгдеЫЩзСРнЩЪ	зЩТвЯкЯЮФ	СдвЩЪ	ХзЫЬЩФЯз	ФЯЧвйкХли	кСЫЬСФйзСди	зйзЯФбнЩЪгб	ЫЯввХШЩФЯв	ЧЯЮбХЭйЪ	ТвЯЮкЩвЯзСзлЩЪ	кСЯгдвбди	ЩгЫвХЮЮЩЪ	шХЬигЩЮЫЩ	зШЯФЮЯЪ	ЧеСЮожЯегЫЩЪ	згЫЬЯоСдгб	ТЬежФСРнЩЪ	ЬРФЮйЪ	СвШСЩгдЩЫС	кСгдвбЮХд	ЩкЯлХЬ	ЫСзЫСкУХз	зквйзЯкСнЩдС	ТХкТСЮФХвЯЬиЮйЪ	ТеЫзЩУС	зйаХгдЯзСди	кСзбкСЮЮйЪ	ТЯвЩФ	СедЯЬЩк	зйШЯжХЮЮйЪ	кзеЫЯаЯЧЬЯнСРнЩЪ	ЫЬЩа	ЫСЫЯЦЯЮЩоЮйЪ	ЩкРЭЩЮЫС	ЫСЭЮХФвЯТЩЬиЮйЪ	зйЬеаЩзлЩЪгб	ЪЯЫЯЧСЭгЫЩЪ	ТЩЫЯЬЬСдХвСЬиЮйЪ	жЩзЯФХвЫС	зйаЩЬЩзСдигб	зйаЩвСзлЩЪ	зХвдб	кСШЯжФХЮЩХ	кСдвСзЬЩзСдигб	ФЯаЯХлигб	ЬЩли	ЬРЬиЫС	зйШЯФЫС	ЭСХдС	ЧЩаХвТЯЬЩкЩвЯзСЮЮйЪ	ЧЯЬЯзЫС	чСЭТевЧ	ЩЮЫЬРкЩз	зХХвЯЫ	цХФб	кзХвРлЫС	ФХвЩ	ѕЫвСЩЮС	кСЧвЯЭйШСзлЩЪ	ФЯЬЯжЩди	ЩЮЯШЯФХУ	злЩзСХдгб	
+
+Time taken to remove 100 words from the dictionary: 1ms
+
+
+dictionary_files/3_ru.dic with Bag 1 -- Time taken for dictionary construction, word picking and word removal: 7857ms, 0ms, 1ms
+
+
+Running simulation...with MagicalBag2
+=====================================
+
+
+Time taken to build the dictionary: 8206ms
+
+Added 50000 words from dictionary_files/3_ru.dic.
+
+Picking 100 words: ТХквСгоХдЮйЪ	ЩкЬеоСХдгб	кСЭХдХд	ЧзСвФЩб	ТЩЭХдСЬЬЩкЭ	ФЯЮЩЭСЮЩХ	ТХЬимдСжХЭ	хЧЩадЯЭ	ТСЬСЭедЩди	ФЯТвЯзЯЬиЮйЪ	ЧвекЩЮ	зХдЬежгЫЩЪ	кСФХвЮеди	ФХлЩЦвеРнЩЪ	зйЧвежСди	кСабгдЮйЪ	ЧСЭТевЧгЫЩЪ	СЭЯвЦЮйЪ	ЧеФХЮЩХ	ЭСвлЩвЯзСЮЩХ	ЬСФЮХЮиЫЩЪ	кСФХзСРнЩЪ	кСЭСШЮезлЩЪгб	ы№ѓѓ	зХЮХвЩСЮгЫЩЪ	зЯЬлХТЮйЪ	кСЮЯлХЮЮйЪ	ЫеаоЩШС	ЫЯЮоХЮйЪ	ТвЩЬибЮднЩЫ	ЬЩЮЧзЯгдвСЮЯзХФоХгЫЩЪ	зЯжЭХлигб	СздЯЫЬСз	ЧЩагЯЭХдвЩоХгЫЩЪ	тЯдгзСЮС	СЪ	ЭСгдХвЯзЩдЯгди	кСавСзЬбзлЩЪгб	ЫЯЮзЯЩвЯзСЮЩХ	заЩдйзСди	ђЯФЩЯЮ	зХвТЬРжСдЩЮС	кЯЬЯдСви	жжХЮЩХ	заХоСдйзСди	ЭСЬЯаЯЬХкЮйЪ	згЫСЫЩзСЮЩХ	ТевдЩЫ	СТСЫ	ТвЯФбжЮйЪ	кСдХбЮЮйЪ	ЧвХзлЩЪ	ТЯЭТЯЭХдСЮЩХ	СвЫдЩоХгЫЩЪ	зйгдеЫСди	ззХвЧСзлЩЪгб	ЧеСЮЯкЩЮ	ТХвХгдС	зХвЯЬЯЭЮЯгди	ТСоЯЫ	зСбХдХ	зЯкЭедЩдХЬиЮЩУС	ЩкЯТвСжСРнЩЪгб	ТЯдСЮЩЫС	кСЪЭХЭгб	кзХЮЩЧЯвЯФгЫЩЪ	ЫСвСеЬбнЩЪ	кЯЭТЩвеРнЩЪ	ЫЩгЫС	кСФХвЧСЮЮЯгди	ЩЮдвЯгаХЫУЩб	ЫСЬЩТвЯзСЮЮйЪ	ЫЯЬЯдигб	ФЩгЬЯУЩвЯзСзлЩЪгб	№ЯгХЪФЯЮ	ФеЪгб	зУХаЬбРнЩЪгб	ЫЯЮгиХвж	ТйгдвЩЮС	СЮдЩЭЩЬЩдСвЩгд	кСЮХгХЮЩХ	ЩЫЯЮЯЬЯЧЩб	ФЯкзСЮЩзСдигб	зйдвЩги	ЫСЮдСТЩЬХ	кХЭЬбЮЩЮ	ТеТЮС	зЯФЯгЮСТжХЮЩХ	№№њѕ	зйЫЬРоСзлЩЪгб	зЯЯФелХзЬбРнЩЪ	кСаедйзСЮЩХ	зЬХое	ЫЩдЯЬЯзгдзЯ	кСТЯдЩдигб	ЫЯвЯзбЫ	СУЩЬЩвЯзСЮЮйЪ	ћаЩУТХвЧХЮ	ФЯЭЩЮЩвЯзСзлЩЪ	зЧвйкеги	
+
+Time taken to pick 100 words from the dictionary: 1ms
+Removing 100 words: ЧЮЯЪЮЩоЯЫ	СЧЯЮЩкЩвеРнЩЪ	ТХквеЫСзЮйЪ	ыЩЮлСгС	ФЯдбЧЩзСзлЩЪ	ЧЯвХзСзлЩЪ	ЧвСЮСдЮйЪ	ЩЭХРнЩЪ	ФвЯзЮЩ	зЩвЧЩЮгЫЩЪ	кСгдХЬЩди	СзЧегд	ЬиФй	ЩкФХвжСдигб	кСгзХдбдгб	СТЯЮЩвЯзСЮЩХ	ЭСгЬЯгйвЯФХЬиЮйЪ	ЩгаЩди	ФЯЮСлЩзСЮЩХ	ТСЬЯзгдзЯ	юќ№С	зЯкТежФСдигб	жЯЮЧЬХвлС	ЫЯвФЯЮЮйЪ	СУХдСд	СвШСЮЧХЬЯЧЯвЯФгЫЩЪ	кСлХадСдигб	кСлЩзСЮЩХ	ЬЯЫСЬЩкеРдгб	ТСЫХЬЩд	ФЩкпРЮЫдЩзЮйЪ	ТХвЩЬЬ	ЫЬСггЩоХгЫЩЪ	ФЯЬСЭйзСзлЩЪ	ЫзЩдСзлЩЪгб	СзгдвСЬЯаЩдХЫ	ФЯЫеЭХЮдСУЩб	СЮдЩЭЩЫвЯТЮйЪ	кСлдеЫСдевЩзСЮЩХ	ТЩвжХзЩЫ	зйаСФХли	зйвЯзЮбди	ЫСЪкХвЯзгЫЩЪ	ЧвекЯаЯдЯЫ	ФЯЮЫЩШЯд	ЧегХЮЩоЮйЪ	ЧЮСзлЩЪ	ТЬСЧЯгЯгдЯбЮЩХ	ТЬХзСзлЩЪ	ьРФЭЩЬС	ФЯЭЯЧСзлЩЪгб	ЬСЭЩЮСвЩб	зйгйЬСРнЩЪ	СЫеЬЩЪ	ЩкЯТЬЩоСРнЩЪгб	ЭСвЫЩвЯзСзлЩЪ	СвдХвЩб	зйШЬХгдЮедигб	ЩкТХЧСди	хзФЯЫЩЭ	ЩЧвЯЫ	зйФвХггЩвЯзСзлЩЪ	жХЬдЩзлЩЪ	явгЫ	ЩЧЬЯЫЯжЩШ	ФЯгЮбзлЩЪ	СвдЩгд	ЫЯвЮХзЩнЮйЪ	ЬЯЭЩЫ	ЫвеаЫС	зЯгдЯвЧСзлЩЪгб	ЧЩаХвдвЯЦЩб	ФЯзСвЩзлЩЪ	зЯгЫвХгХЮЩХ	зЯЪгЫЯ	ЬЩЭЯЮЯзЫС	зХЬЯЦЩЧевЩгд	ЬСдзЩХУ	зквЯгЬЩди	ФЯаЯЬЯгЫСди	ТЬЯЫ	зйавСзЩзлЩЪ	зЩгУХвСЬиЮйЪ	зЯкиЭХЭ	ЧвеТбнЩЪ	кСдзХвФХЮЩХ	ФЩгаХвЧЩвЯзСЮЩХ	ТХЮкЩЮЯШвСЮЩЬЩнХ	кСаеФвЩзСЮЩХ	ТСШзСЬЩзлЩЪгб	зкЬЯШЭСдЩзлЩЪгб	свЭХЮЩб	ЩЮФСЮ	ЫЯоЫЯзСдйЪ	ЫЬХзХненЩЪ	ЭСЯЩгд	зЯЬидСЭХдв	зйЭХЮЩ	кСзХФЯзСзлЩЪ	тХвЬЩЮ	
+
+Time taken to remove 100 words from the dictionary: 1ms
+
+
+dictionary_files/3_ru.dic with Bag 2 -- Time taken for dictionary construction, word picking and word removal: 8206ms, 1ms, 1ms
+
+
+Running simulation...with MagicalBag3
+=====================================
+
+
+Time taken to build the dictionary: 22307ms
+
+Added 50000 words from dictionary_files/3_ru.dic.
+
+Picking 100 words: ЩгЫЬХзСди	ФЩЦдЯЮЧ	зЯФЯеаЯвЮЯгди	згаЯЬкдЩ	ТЬЯЫЩвЯзСЮЮйЪ	кСлЩаХди	зпХФСзлЩЪгб	ФзЯХФелЮйЪ	ЫЩгЬЩУС	ТСЩЮиЫЩ	ФйЭЯЯдзЯФ	ТЩТЬЩЯЬЯЧЩоХгЫЩЪ	кСдХзСРнЩЪгб	ЫЯЬиУХЯТвСкЮйЪ	фХвТХЮд	їгХзЯЬЯФЯзЩо	ЩкзХгдЮбЫЯзйЪ	ФзЯвбЮЫС	ЭСжС	СЦЯвЩгдЩоЮЯгди	ЫСдЩЯЮЮйЪ	ЫСЮФСЬСЫлгЫЩЪ	зйЫЯзСди	ФзСФУСдЩдвХШЬХдЩХ	ЩгаЯФ	ФЯТвЩзСзлЩЪ	зХЮоСРнЩЪ	ЫвСгЮХзлЩЪ	ФзеаЯЬЯгдЮйЪ	ЩкЯТЬЩоСХдгб	зйеоЩзлЩЪгб	свдевЯзЮС	кСвбжХЮЮйЪ	зйХФЩдХ	кСЬЩШЯвСФЩЬЯ	ЭСвЫЩвЯзСЬиЮйЪ	кСгзХдЩдгб	кСдвЩ	ЩкЯЭЯвЦЩкЭ	зйгдвЩЧСХЭйЪ	СЮдевСжХЭ	ЫвСгЮХди	кСгдвХЬЩзлЩЪ	зкЩвСЮЩХ	ФЯТвЯЫСоХгдзХЮЮйЪ	зЯвоСзлЩЪ	кСнХЬЫЩзСХЭйЪ	СвСТгЫЩЪ	ЩкЬеоСдгб	ЫСаХвгЫЩЪ	ЫвЯггЩЮЧ	ЧХдХвЯЧХЮЮйЪ	ЧСФХЮйлХЭ	зйзбЬЩзСзлЩЪ	кСЭеоСХЭгб	ФЯТХЪ	ФЯЬЧЯЮЯЧ	зЩЯЬЯЮоХЬЩгд	ЫСвдЯЮСжЮЩУС	ТеТХЮУЯЭ	кСЧвСТСгдйзСзлЩЪ	зйдСнЩзлЩЪ	ЩЮЩУЩСЬиЮйЪ	зЬСФХЬХУ	ЫЬХдоСдйЪ	ЫевЫЯзйЪ	зХвгд	ФЯЬЩди	чЬСЦЩвС	кСЫСЬЩзСзлЩЪ	зФЯШЮЯзХЮЩХ	кСаСШЩзСзлЩЪгб	ФЩгЫвХдЮйЪ	ѓСЭгЯЮЯзЩоХЭ	кЮСЭХЮнЩЫ	эшсєС	ЫЬХЪгдХв	СздЯгдвЯЩдХЬи	ЫвХгдЩЮ	ЭСдХвЩзлЩЪгб	ЫЯЬХгЮЩЫ	кСаЯкФСЬЯгди	зФезлЩЪ	ТйгдвЯдХЫенЩЪ	ЧХЪкХв	ЭСвСТе	зЫЯвХЮбдгб	зЫЬХЩзСди	ФЯЭЩЮСзлЩЪ	СЭТСвЩлЫЯ	ФХдХЫдЩзЮйЪ	кСавСлЩзСХдгб	згХЬЩзлЩЪ	СТЯЮХЮдгЫЩЪ	зйкзЯЬбзлЩЪ	зЯгШЩнСРнЩЪ	ЧСЬЯ	ЫЬЩЭСд	ЧвЩЭ	заегЫСХЭйЪ	
+
+Time taken to pick 100 words from the dictionary: 12ms
+Removing 100 words: ТеТЮЩди	кСЧЯдЫЯЮдЯвС	фХдвЯЪд	ЧЮелСРнЩЪгб	ТХЬЯмЭЩЧвСЮдгЫЩЪ	кСЫЬХайзСХдгб	ЩгЫЬРоСзлЩЪгб	ЫСвСТЩЮ	зХФХвЫЩ	згдвбШЮеди	кЬЯгоСгдЮйЪ	ФХЧСкСУЩб	тЩЬиТСЯ	зкСЩЭЯкСоХд	ЫСвТРвСдЯвЮйЪ	жЩЧеЬХзгЫЩЪ	згЫЯвЭЬХЮЮйЪ	ФЩаЬЯЭСЮд	СаЯЬЬЯЮ	ТХЬЯЬЩУйЪ	ХЧЯкЩди	зХЮоСРнЩЪгб	ЧСЮФТЯЬиЮйЪ	зйжЩЧСди	кСдвХд	ЫЯЮгдвеЩвЯзСзлЩЪгб	зХвдХа	ЫЯкХвЯЧ	зЩФХЯЫСЮСЬ	ЫеТЯзЩФЮйЪ	кСгЬРЮбзЩзлЩЪ	ФХлХзХзлЩЪ	ЩФЩЯдЩб	ЬЩгдЯХФ	ЩЭЭеЮЯаСдЯЬЯЧЩоХгЫЩЪ	ЫЩгЬЩЮЫС	ТСгЭСо	ЫЯвЯзелЫС	ФЯТЩвСзлЩЪ	зЯвЯжХб	кСнХЬЫЮедгб	СЫелХвгЫЩЪ	СвЭЩвеРдгб	кСвзЩги	ЫСЬХЮЮйЪ	СвЧХЮдЩЮХУ	зкСЩЭЯзйЧЯФЮЯгди	ёэђ	ФХгСЮдЩвеРдгб	ЫЯвСТЬХгдвЯХЮЩХ	кзСЮйЪ	кСгСгйзСдигб	ЩгЫелХЮЮйЪ	ФЯЫСдйзСзлЩЪ	ЫевХЮЯЫ	кСавХггЯзйзСРдгб	ЫЯзТЯЪЫС	кСоХвайзСРнЩЪ	ЫЬХл	ЫЬСвЮХдЩгд	зйЬХдХзлЩЪ	зйаЩвСди	ы№ф	ЫЩЮЯЫСФв	згЫЩФйзСРнЩЪ	ЫСоеоС	ФвХЮЩвеРнЩЪ	ТСФЭЩЮдЯЮЩгд	ФЯЫеЭХЮдЮйЪ	ЧвСЮЩЬиЮйЪ	ЫЬСзЩвСегУеЧ	ЫСЭХвЮЯгди	ЫЯЭСЮФЩвЯзСЮЩХ	кСЧвХТСЮЩХ	зеСЬиЫС	ФЯгСФЮйЪ	СвлЩЮ	зевФСЬСЫ	кСФХвжЩзСзлЩЪ	СвдвЩдЮйЪ	кСкеТвЩзСЮЩХ	ЧеТЯЮЯЧЩХ	зйЬеаЬбзлЩЪгб	зСЫеЯЬЩкСУЩб	зйгдЯбзлЩЪ	ЫвЯаСзлЩЪ	зйЫЯзйзСЮЩХ	СздЯкСавСзнЩЫ	зйгеЮедйЪ	ЧзЯкФЩнХ	ФзСФУСдЩФЮХзЮйЪ	ФЯгдвСЩзСХЭйЪ	жХгдЯЫЯгХвФйЪ	ЩгдЯвЩоХгЫЩЪ	кСзЩдЯоХЫ	ЩЭЩФСкЯЬ	ЭСдХЭСдЩоХгЫЩЪ	кСделЩди	СЧЩдЩвЯзСзлЩЪ	ФЯаЯЬЮбдгб	
+
+Time taken to remove 100 words from the dictionary: 13ms
+
+
+dictionary_files/3_ru.dic with Bag 3 -- Time taken for dictionary construction, word picking and word removal: 22307ms, 12ms, 13ms
+
+
+Running simulation...with MagicalBag4
+=====================================
+
+
+Time taken to build the dictionary: 39ms
+
+Added 50000 words from dictionary_files/3_ru.dic.
+
+Picking 100 words: зХвШЯзиХ	ЬХЧСЬиЮЯгди	кСзбкЯоЫС	ФХЭЩевЧ	ЫЬХдЯоЫС	ТХгоЩЮгдзЯзСзлЩЪ	СЮСТСадЩгдгЫЩЪ	ЧЩгдХвХкЩгЮйЪ	зЩЬЫС	ЫЩкЩЬХзйЪ	зЯЫкСЬиЮйЪ	ЫЩЮЯЫСЭХвС	ЫвСаЩзЮЩЫ	ТХкТвХжЩХ	ЩкРЭ	ФЯжФЩнХ	кХЭЬХегдвЯЩдХЬи	ЫЩгЬЩУС	СЮдЩаСггСд	ЫСЮСаХ	зШЯжФХЮЩХ	ФЩаЬЯЭЮЩЫ	зЯкЧЯЮЫС	ћвХФЩЮЧХв	ТХвЮлдХЪЮЩСЮгдзЯ	ЭСЬЯЯайдЮйЪ	ЫСЬЩТвЯзСЬиЮйЪ	ЩкЧЬСФЩзлЩЪ	ФХаСвСЦЩЮЩкСУЩб	зСЬеЮ	ЫЯЮЯгСЭХЮд	СТЯвСЬиЮйЪ	ФЯЫеЭХЮдЩвЯзСди	ФЯгдвЯЩзлЩЪ	зЮХФвЩдигб	шСЪЦС	ЬЯЫСЬЩкСУЩб	кСавСзЯоЮйЪ	СздЯЫвежЯЫ	ЬСТЩСЬЩкЯзСЮЮйЪ	кСЫзСлЩзСРнЩЪ	СаХЬЬбУЩЯЮЮйЪ	ЧЩаХваЬСкЩб	ЫеаоЩЪ	ТЩЯЫЩТХвЮХдЩоХгЫЩЪ	ЭСЬЯжЩвЮйЪ	ЩЮпХУЩвЯзСди	ЩвЯЫХкгЫЩЪ	кСгоЩдйзСХдгб	ЫЩабдЩзлЩЪ	зйгЯЫЯЯТвСкЯзСЮЮйЪ	ЩквйдйЪ	зйзСвЫС	ТЯЪЬХвЮйЪ	кСгХЬбдигб	ТСШСзлЩЪ	ЩЮгдвеЫдЩзЮйЪ	СжЩдСУЩб	ЩЮФРлХоЩЪ	СЭХвЩЫСЮЩкСУЩб	њХХЭСЮ	ФвСФХФСЭЯзйЪ	СздЯЫвСдЩб	кСТХдЯЮЩвЯзСзлЩЪ	ФЯЧЮСЮЮйЪ	жХЮС	жХгдЫЩЪ	кСЫСайзСЮЩХ	зЩгЭедгЯФХвжСнЩЪ	СЮЮХЫгЩЯЮЮйЪ	ТеЮдЯзСзлЩЪ	ТСЬйоЯЫ	ЩгаЯзХФеХЭйЪ	СЫЫЯвФЯзйЪ	єеЬЯЮ	кСаХЫСзлЩЪ	кСЫЯвЫСШ	ЫЯЯвФЩЮЩвЯзСЮЮйЪ	ЧЯвТСдбнЩЪгб	ЧвеЮдЯзХФХЮЩХ	зЯгаЬСЭХЮбРнЩЪгб	ЫвеоХЮЩХ	кСХФЩдХ	ЫвСдЫЩЪ	ФХгбдйЪ	зйШСжЩзСРнЩЪ	ТеТЮбнЩЪ	ТСбЮ	ФЯТвХХдХ	ФзевеЫЩЪ	ТЯЬилХЫвйЬйЪ	зйЬЩзСРнЩЪгб	ЫЯЬЬСТЯвСУЩЯЮЩкЭ	ЧЯЮбРнЩЪ	ЧвСЮд	ТЬежФСди	СЫгХЬХвСдЯв	зйЬСзЬЩзСЮЩХ	ФЯХШСди	зйнХЬСоЩзСди	
+
+Time taken to pick 100 words from the dictionary: 50ms
+Removing 100 words: ФЯгеШС	ЬХдЯаЩгЮйЪ	ТСЬикСЭЩвеРдгб	зйгЭСдвЩзСдигб	ЩгдУЯз	зЯЬЯгЩЫ	ЫЯгдРЭ	зЮХЫЯЮЫевгЮйЪ	Фвекиб	ЩкЭЯоСЬЩди	ЬХкЧЩЮ	СФвХгеРнЩЪгб	їЩгЫЯЮгЩЮ	ЩЮЦекЯвЩб	ФЯжЩЧСди	кСгелЩзСзлЩЪ	ЬХФйлЫС	ЫЯвоХзСзлЩЪ	ФЯЫЬСФ	кСЬСдСЮЮйЪ	ЩЯЮЩкЯзСдигб	кСдСвЩзСЮЩХ	кСЫЬХЩзСХдгб	ЩгЫвЯлЩзлЩЪгб	зйгХзСдигб	ТеЫгЩвЯзСзлЩЪ	ЧСЬизСЮЩкЭ	ФЯЬТЮб	ЧХЯЧвСЦЩб	зйЬСзЬЩзСХдгб	ТЯЭТЯгТвСгйзСдХЬи	зЯкиЭед	ФЯзХгдЩги	ЫевоСзЩзлЩЪгб	зиРЮЫЯзйЪ	ЩкжЩзСРнЩЪ	ЭСдХвЩСЬЩгд	ЩгЫвЯЧСгЩдХЬи	СФвХг	зйоХгСЮЮйЪ	кСавЯлЬйЪ	зСзЩЬЯЮгЫЩЪ	зФЯШЮЯзЩдХЬи	ЫСагРЬиЮйЪ	єЩШзЩЮ	ЩгЫеаСРнЩЪ	ЩгЫСЬХоЩзлЩЪгб	ЫСЬЩЬиЮйЪ	ТЯФСзлЩЪ	ЫЯЮдвЯЬЩвЯзСзлЩЪ	фЩЭЩдвЩЪ	ЫХЬиЮХвлС	жСЬЯгди	ЧХдЭСЮгдзЯ	зФезСРнЩЪ	ФХвжСдХЬи	ЬХнЯЭ	зСвбнЩЪгб	ЬРТХкЮЩоСди	ЬеТбЮЯЪ	ѓзбдЯгЬСзЯзЮС	заХвгб	зйгСгйзСРнЩЪ	ТХкСдЯЭЮйЪ	СвШЩдХЫдЯв	ЫеЬСоЫЯзйЪ	ЫСгдЯзЯгди	ФвХзЮЩ	зЭХлЩзСдигб	ТХгаСвФЯЮЮЯгди	зйлЩТСди	ЧЩааЯаЯдСЭ	зХвлХЮЩХ	ЩгавСзЩди	яддСзС	зЯкТежФХЮЮйЪ	ТеТЬЩЫЯзйЪ	зкТСЬСЭеое	ЩлХЭЩоХгЫЩЪ	зЮЩЫ	тСЮЧЬСФХлХЭ	ТХвЮгЫЩЪ	зСдвелХоЮйЪ	кСЬежХЮЩХ	ЧзСвФХЪгЫЩЪ	ТЯЪЫЯдЩвеРдгб	ФЯЫСдйзСРнЩЪ	ЩгЫСкЩзлЩЪгб	зйЧЬбФХзлЩЪ	кСЧвСЮаСгаЯвд	ФЯЫЬХЩзСХЭйЪ	зФЯЬТбдгб	кСТвСгйзСРнЩЪ	ЫСгЫСФЮйЪ	цХЬЩЫгЯзЩоХЭ	ФЩгЫвЩЭЩЮЩвЯзСдигб	кСгдХЧЩзСРнЩЪгб	зЯФЯзЯк	ФЯЫЯЮоЩзлЩЪ	ЩеФХЪ	
+
+Time taken to remove 100 words from the dictionary: 43ms
+
+
+dictionary_files/3_ru.dic with Bag 4 -- Time taken for dictionary construction, word picking and word removal: 39ms, 50ms, 43ms
+
+
+Running simulation...with MagicalBag5
+=====================================
+
+
+Time taken to build the dictionary: 35ms
+
+Added 50000 words from dictionary_files/3_ru.dic.
+
+Picking 100 words: ФЩкХЮдХвЩб	ФЯгдСРнЩЪ	заегЫСРнЩЪ	ФбФРлЫЩЮ	ЧвеЮдЯзСЬиЮйЪ	зйХкжЩзСди	ЫвХЮЩдигб	ФвбкЧ	ФзегЫСдЮйЪ	зХЮЩоХЫ	ЩЮдХвЮХд	ФвХггевС	звХкйзСРнЩЪгб	ФжЩЮЮ	ЫСвЭСЮЮЩЫ	ЧСвЭЯЮЩб	зйЫеаСди	зЯкФХвжСЮЮЯгди	кеТСдйЪ	ЫСЬЩТвЯзСЮЩХ	ФЩгЫЯЮдЩвеРдгб	зЫегЮХЮиЫЩЪ	ЧСЬЬРУЩЮЯЧХЮ	зСдХвЮйЪ	зйЧЯзСвЩзСди	ФЯаСЬйзСзлЩЪ	ЧСкЯзйФХЬХЮЩХ	зЯаЬЯнХЮЩХ	ФЯлСЧСзлЩЪ	ЫЯЬЯгбдгб	ЩдХЬиЭХЮгЫЩЪ	згСгйзСРнЩЪ	зЯгавЩЭед	ЭСЧЮХдЯЮ	ЫвЯЫХдЮйЪ	ФЩСЦвСЧЭЩвЯзСзлЩЪ	СвХЮФЯзСдигб	ФЩгаедЩвЯзСзлЩЪ	ЧвеФЮЩУХЪ	ЧЬСФЩЬиЮб	СЧЯЮЩкЩвЯзСзлЩЪ	ЬЩЦ	кСЬбайзСди	СвСЬЩб	зоежХ	СФХЮЯзЩвегЮйЪ	кСУЩЫЬЩзСдигб	зйЫСЮРоЩзСди	ТЯЫЯзЩЮС	ЬЯЧ	їйЫгС	згдвХзЯжЩзлЩЪгб	ТЬСЧЯавЩЯТвХдХЮЩХ	ЫеаХЪЮЯгди	ТСЬСЭеое	ЩЮгаХЫУЩб	ЩввЩЧСдЯв	ЬЯШЭЯдиХз	ЧЯдЯзЩзлЩЪ	зкйгЫЩзСЮЩХ	кСкйз	кСнЩнеги	СЭХвЩЫСЮгЫЩЪ	ЫЩгЬЩУХЪ	зЯдЫСзлЩЪ	ТХгШЯкбЪгдзХЮХЮ	зЯФЯЯТХгаХоХЮЮЯгди	кеТЩЬЯ	зкзЩЮоЩзСзлЩЪ	ЫЯЬйТХЬи	ФСвХЮйЪ	кСЫЯЮгаЩвЩвЯзСзлЩЪ	ТЬСЧЯФСвгдзХЮЮйЪ	кСаЯвШСзлЩЪ	зЯгавХнХЮЮйЪ	зкЭХдЮедигб	зХЮУХЮЯгЮйЪ	ТХгавЩдбкСдХЬиЮйЪ	эщфХ	зХлСРнЩЪ	ЫЩЮЯЬЯЧЩб	ФкРФЯЩгд	СТЯЮЩвеРнЩЪ	ТЩЯЯвЧСЮЩоХгЫЩЪ	зйгЯЫЯЭСгЬЩоЮйЪ	СЫелХвгЫЩЪ	ФЯЯоЩгдЫС	кСФйЭЩди	ФЯеоЩди	ТХквСгоХдЬЩзйЪ	ФХкЩЮЦХЫУЩб	зЯгЫвХгЮЩЫ	ЫЯЭЭеЮЩкЭ	ФзеШЫЬСггЮйЪ	кСЫегЫС	ФЮЯеЧЬеТЬХЮЩХ	ФвежЯЫ	ФЯоХвбЭ	кСоСвЯзСЮЮЯгди	зЮХгХЮЮйЪ	
+
+Time taken to pick 100 words from the dictionary: 24ms
+Removing 100 words: зйШЯФбнЩЪ	сзФЯдиб	ФЯвСТСдйзСди	ЬСаЩФСвЮйЪ	ФЯТеФЩдигб	ЩгдЯвЧСди	ТХкЯЧЯзЯвЯоЮйЪ	ФХкЯвЧСЮЩкСУЩб	ФЩаЬЯЭСЮдЫС	ЬЩФЩвеРнЩЪ	кСЧвйкСРнЩЪ	ЩгУСвСаСдигб	ћСвЬЯддС	кСдХгЫС	СТгевФЩгдгЫЩЪ	ЧвЯШСди	ыњяєС	жжХЮЫС	ФЩСЭЩЮ	кСдвХаХнед	кЧЩ	ЧвекЩЮЫС	ТХЬЯЭЯвгЫЩЪ	ЧСвСЮдЩЪЮйЪ	кСабдЮСЮЮЯгди	згаЯЭЩЮСРнЩЪ	№СвСЭЯЮ	ТХгЫЯЭавЯЭЩггЮйЪ	ЫЯЮгЯЭХ	ФЩои	ЫЯвоХЭ	зйЮРШЩзСРнЩЪ	ФСЬиЮЯзЩФЮЯгди	СЫЯЮЩдЩЮ	ЫЬЯоиб	эЯЬФСзЩб	кСЭйЫСРнЩЪ	СзЩХдЫС	ТСЧвй	ТХвХЧЩги	ЭСгдХвЩди	ТХЬЯзСдЯгди	зйЬХоХЮЮйЪ	кСФХЬЫС	ФЯжЭХЭ	ЫЯжевС	зЯкЧЬСзбдгб	ТЩгеЬиЦСд	зЮСЫЩФЫе	зЯЧЮСЮЮйЪ	СЬжЩвХУ	згХЬХЮгЫЩЪ	СвЩгдЯЫвСдЩб	зЫЬСФЮЯЪ	ЩЮЦСЮдЩЬЩкЭ	ФвХзЬХШвСЮЩЬЩнХ	ЫЩЮЯЭЯЮдСжЯЭ	ЫЯЮХУ	фХЭибЮЯзЮС	ФЯаЯР	зЬРТоЩзйЪ	ЫЯЮдвСФЩЫдЯвЮйЪ	ФЯТХЧСзлЩЪгб	ЧСаЬЯЩФЮйЪ	ФЯЧвйкХЮЮйЪ	зХвЯЮСЬ	зйайдйзСРдгб	ФЩЮСЭЩоХгЫЩЪ	ХжЯЮЯЫ	кСЭСнЩзСРнЩЪ	ФзСФУСдЩвеТЬХзйЪ	ФХзгдзХЮ	ТСЬдЩЭЯвгЫЩЪ	ФХвкЮЯзХЮЮЯгди	ФеЪгб	эХФХб	зЩдСЬЩгдЩоХгЫЩЪ	ЫвЩЯЭХФЩУЩЮС	ЬЯЫСЬЩкеРдгб	ЫЯаЩЬЫС	ЧвЯШСРнЩЪ	фжЯвФжЩб	ЫвЩгдСЬЬЩкеХЭйЪ	ФзЯвЮб	юЩФХвЬСЮФй	ФЯаХвгб	зЫЬРоЩзлЩЪ	ЬРТЯЭеФвЩХ	ТедЩЬ	кСЫСЬЩзСРнЩЪгб	сЮСгдСгЩб	кФСЮЩХ	згаеоСдгб	кСФСдЯЫ	њся	жХЬдЯЫЯжЩЪ	зйдЯЬЫЮеди	кСдСЬЫЩзСзлЩЪ	зЫвСаЬбРдгб	кСкХвЫСЬиХ	
+
+Time taken to remove 100 words from the dictionary: 23ms
+
+
+dictionary_files/3_ru.dic with Bag 5 -- Time taken for dictionary construction, word picking and word removal: 35ms, 24ms, 23ms
+
+
+Running simulation...with MagicalBag6
+=====================================
+
+
+Time taken to build the dictionary: 71ms
+
+Added 50000 words from dictionary_files/3_ru.dic.
+
+Picking 100 words: ФйЭбнЩЪ	кСЧЯвХзСзлЩЪ	ФЯТйдйЪ	СзСвЩЪнЩЫ	СвЧеЭХЮдЩвЯзСди	кСоЩдйзСХЭйЪ	ФЯгдЩвйзСЮЩХ	ЫЯЫХдгдзЯ	чзСФХЬеаС	зйгЯЫЩЪ	тСкХЬи	ФЯдЬХзСХд	ЧЯгЫЯЮдвЯЬи	ЧЯвХУ	ТеЫгЩвЯзСзлЩЪ	ТХЭЩд	кСзСЬбРдгб	зоезгдзЯзСдигб	кСЫЯЮЯаСое	зйЫвеоЩзСзлЩЪгб	ТвСдХЬиЮЩЫ	ЫегдЩгдйЪ	кСгХЬбРдгб	ЬХЫУЩб	ТСвШСдЫС	зЯкЬЩбЮЩХ	зкЧЯвТЬХЮЮйЪ	кСгдйФЩзлЩЪгб	ФзеШдеЭТЯзйЪ	СвдаЯЬЫ	зйЭСоЩзСРдгб	ФХзоелЫС	чСзСЮС	ХЬСТежгЫЩЪ	кСгйЬСРдгб	кСЯЫХСЮгЫЩЪ	жХвдзеРнЩЪ	СЮдвЯаЯгЯЦ	ФелХавЩЫСкоЩУС	ТСЬРгдвСФЮйЪ	ТХгЫвЯзЮЯгди	зйаСЩзСдигб	зкЯТиХд	ФеЮЯзХЮЩХ	зкЬСЩзСРнЩЪ	зЮЯгбнЩЪ	ЫСЬЩТвеРнЩЪ	зХдШЯкСзХдЮЯгди	ЫвЯЭСЮиЯЮУХз	зйЫЬЩЫЩзСди	жСФЮЯгди	ЫЯЭаЯЮЯзнЩЫ	згайШЩзСЮЩХ	кСФХвЧСдигб	СвШХЯЬЯЧЩоХгЫЩЪ	зйлХеЫСкСЮ	ЬХЭХШ	кзХвЯТЯЪЮйЪ	зйЫСлЩзСзлЩЪ	ЫСЭеЦЬЩвЯзСЮЩХ	зкЭйди	ЩкЯТЬЩоЩдХЬи	ТвСЫЯзнЩУС	ТЩЯдС	ЫЮЩЧЯаХоСдСЮЩХ	зйвЯжФСзлЩЪгб	зХвЯЮУХЭ	ЫЯвЭЬХЮнЩЫ	кСгдСЩзСРнЩЪгб	СедЯЧХЮЮйЪ	ыЩЭТХвЬЩ	кЮСЭХЮнЩЫ	СЫЫвХУЩб	хЦЩЭЯзЩоХЭ	ЬХгЮЯЪ	СвТЩдв	зйЬЩЮбди	кСЦвСШдЯзйзСЮЩХ	кСзЩШвбдигб	ФвЩТЬЩЮЧ	ФЯжЭХд	ЩкЧЩТСХЭйЪ	кСЭегЯвЩзлЩЪ	ФЯТвЯЫСоХгдзХЮЮйЪ	зйЧеЬ	СФЩЮСЭЩб	ТХквСкЬЩоЩХ	зСЫееЭЩвеРдгб	ТЯвЯЮЯзСЮЩХ	ЩкРЭ	ЫЯЮгеЬ	ФЯЪЫС	кСЧЮСЩзСзлЩЪгб	СаЯЫвЩЦЩоХгЫЩЪ	кСФСзлЩЪ	ЫСдСаеЬидЩвЯзСзлЩЪгб	кСФСди	ЬЩлСЪ	ЫЯЭТЩЮЩвеРдгб	ФзеШШЯФЯзЯЪ	
+
+Time taken to pick 100 words from the dictionary: 55ms
+Removing 100 words: ѓїў	зйЫЯЬСоЩзСХЭйЪ	ЧегЩд	згЯгСди	їЯЬигЫ	ЧЯЬЯФвСЮЫС	ЬЯТкСзлЩЪ	цХвСаЯЮд	жХвЬЩУС	ЧЯвТЩзлЩЪ	ФСдгЫЩЪ	зйвСТСдйзСХЭйЪ	ччУ	зйШЬЯаЯдСди	ФХЭЯЮгдвСУЩб	ЩкзХвЩдигб	ФемЮиб	жЩкЮХвСФЯгдЮЯгди	ЧзСдХЭСЬиУХЭ	ыЩЬЩЭСЮФжСвЯ	кСЧвеЮдЯзйзСЮЩХ	завбФХЭ	кСаСгХУ	зЯвЯжХЮЩХ	ЧСвЮЩкЯЮЮйЪ	СТвСЫСФСТвС	ЩкСдЩЮ	ТСЬФХРнЩЪ	ЩггбЫ	зЯквСгдСди	ЭСвибжЮйЪ	ФРггХЬиФЯвЦгЫЩЪ	ФЯХлидХ	зХЮХоЮйЪ	ФХгбдйЪ	СЮЮЯдЩвЯзСдигб	ЫЯлЫЯФХв	кСдеЭСЮЩзСзлЩЪ	№еСЮЫСвХ	СаХЬЬЩвЯзСЮЩХ	ЩЮдХвЮСУЩЯЮСЬЩкЭ	зкТЩвСдигб	ФвХггЩвеХдгб	ТЯвЩвеРнЩЪ	зйЬиХд	СЫдХвгЫЩЪ	СЮдвЯаЯгЯЦгЫЩЪ	ФЯЧЭСдЩкЭ	зкЯзиХли	звХЭХЮХЮ	юСеЭ	ЧЯвгдЯоЫС	СвЩгдЯЫвСдЩб	ЫвРоЫЯдзЯвХУ	ЬХЧЩдЩЭЩкЭ	згаеЧЩзСРдгб	кСЫЯЬФЯзСЮЮЯгди	кСдзХвФХХд	зкСЩЭЯзйЧЯФЮйЪ	ФСвЯзЩдйЪ	їХвгСЬи	ѓХвЮЯзЯФгЫ	ЫеЭеЬбдЩзЮйЪ	ЫЯЬТСгЫС	ЭСЭкХЬи	згЫвЩЫЩзСзлЩЪ	СвдвЯкЯСвдвЩд	зйгдежЩзСРдгб	ЩкТЩвСзлЩЪ	зЯкжХЧлЩЪ	ТЩШвЯЭСд	кСгЩЧЮСЬЩди	ЫЯЭЫСзлЩЪ	тХвЮ	кСЮЩЭСРнЩЪ	кСФвСЩзСХдгб	ЫСвУЩЮЯЭС	кСЧЬСдйзСдигб	ЧЯвХЬиХЦЮйЪ	ФХЬиЦЩЮЩЪ	зЯдведгб	зФезСРнЩЪ	зйлЩзлЩЪ	ЧХЬЩЯгдСд	ЩгоЩгЬХЮЮйЪ	СТгдвСЫдЮйЪ	кХзСдХЬиЮйЪ	зкТЯЬдСХдгб	кСФСди	ЪХЭХЮЫС	ЧСкЯЫЯЬЯЮЫС	ХаЩдЩЭиб	ЬЯЭСзлЩЪгб	ЫСвдзХЬ	СггЩвЩбЮЫС	кСаЬХгЮХзХЬйЪ	ЬСдЩЮЯСЭХвЩЫСЮУХЭ	СвХЮФеХЭйЪ	ЧЯзЯвеЮЩЪ	зХЧХдСвЩСЮУХЭ	
+
+Time taken to remove 100 words from the dictionary: 55ms
+
+
+dictionary_files/3_ru.dic with Bag 6 -- Time taken for dictionary construction, word picking and word removal: 71ms, 55ms, 55ms
+
+
+Running simulation...with MagicalBag1
+=====================================
+
+
+Time taken to build the dictionary: 19760ms
+
+Added 75000 words from dictionary_files/4_cz.dic.
+
+Picking 100 words: gratulovat	aligátorův	Budínová	chechot	Honsek	Namibijčin	Szrajberová	abolicionistický	blatnička	lžícovitý	křišťanovský	Vitice	kakávat	Otův	Závalová	Křenice	gramatikův	Hameršmídův	Hrejkovice	Beková	Knížetové	Rynešová	levostranný	hejenský	automobilistův	kolonádní	jednomístný	astronom	gratulování	Fidži	kamenování	Fibingerův	Míškovice	krysiččin	Dostál	donucující	Fraunhoferův	hradební	Gál	došílet	Bělohrad	Nedvězí	dvojklik	Bechlín	destilovanější	Zavoralův	Gulův	darwinistův	aplikovatelnější	hýknout	excerpce	biomasa	mouřenínský	anestesiologie	Dybová	Kuvajťančin	bezdrevský	Vosáhlová	mlýnek	Ivanův	mnohaměsíční	augmentace	barva	Třebusice	brebtavý	Anguillanův	centristův	hybatelův	Jasův	dílkový	devítistupňový	Kabátův	dlaždičkovat	energie	fyz	klonování	Pešlův	charakteristický	mrzákův	Povondrův	Kleofášův	Kyncl	hliniště	mnohadruhový	dohodnocenější	horštější	Ivončin	jeř	dovysvětlený	kalkulovávání	Batůšková	krocan	miliarda	laiččin	bohoslovecký	Blažejov	hejbání	láčkovcův	dolinkovávat	Skolilův	
+
+Time taken to pick 100 words from the dictionary: 1ms
+Removing 100 words: ldyž	Altstadt	metafyzikův	Bělotín	devadesátigramový	cejnův	balzamovávaný	mezzosopránistčin	knihověda	hltavec	Mikovec	buřinka	Sársko	brlení	Bordeaux	klnout	likvidátor	eudaiminismus	Milostín	hepčík	Salvadorec	chybující	Vendelínův	Heine	lízavka	drahách	dlaňový	doufání	holotínský	Pýcha	Jiřička	kanoistický	Zamazalův	Lachnitův	burčáček	Jůzlová	dostrašený	filozofie	cukrkandl	Spiegelův	Murlová	gyroskop	monokiny	Hartlová	geomechanický	Skršín	centralistka	dohad	biomechaničtější	Velínová	Tichá	hotovka	animace	Hubáčková	cyklodemonstrace	Solárová	capáček	dorostencův	lidem	dozorování	Sokolová	degazace	bedňák	dvorek	arie	idealizace	PES	Eiffelovka	Pitucha	Heřmánek	doexportovat	kašlání	kryobiologie	Springer	dodefinovanější	elektrokotel	bytí	krotnutí	chlast	apologův	kontraindikace	Konývková	Sotákův	antuka	Carl	Tonžančin	chrapot	SFOR	dvaapůldenní	federace	hrátky	blahoslavenství	cvrčivý	Gubík	Slavhostice	modroučký	ještě	myslivý	chržínský	arestace	
+
+Time taken to remove 100 words from the dictionary: 0ms
+
+
+dictionary_files/4_cz.dic with Bag 1 -- Time taken for dictionary construction, word picking and word removal: 19760ms, 1ms, 0ms
+
+
+Running simulation...with MagicalBag2
+=====================================
+
+
+Time taken to build the dictionary: 20483ms
+
+Added 75000 words from dictionary_files/4_cz.dic.
+
+Picking 100 words: dobíhávat	Mucha	Michalovice	buřt	Bratřice	Martincová	Jungová	dramatička	docentčin	klín	Hodslavice	Gazda	intenzivněný	dýmovnice	chlapův	motolice	ekologizace	bočník	Heclová	heliocentrismus	Lidunka	Sabinov	Michna	Terrichová	komutativita	fonografický	Pekárková	dokreslovat	budyňský	cuchávat	dřevařství	mordie	Vintířov	bdělý	jednonohý	nablýskaný	krčený	Soč	Libotov	Lásková	mazánkův	kanárkův	jenotkový	hurónský	dřevnovický	Perštejn	Hroudův	Dobešův	marže	heterozygotnost	Kaizlův	lízávat	Dědečkův	Mongolsko	Seba	herezit	holomrazech	doutnavý	legalita	mandlovější	dařit	Gruzie	meziknihovní	amoniakální	Grüner	modlený	dosti	aminokyselinový	Topinka	bratrovražedný	chrlený	Janebův	docvakat	bakule	měřit	Grodecký	Kubečkův	družecký	kuňkání	Petkovová	antipodův	Freiová	hradlař	admirálštější	dozrávání	dosmečovat	Bitnarová	Venezuelcův	Galanta	Vojáček	nabrnkaný	Odstrčil	Hamburk	anarchistka	chráněncův	drůbežářský	Tunákův	kasírování	Svatoplukův	Libanon	
+
+Time taken to pick 100 words from the dictionary: 0ms
+Removing 100 words: fluorový	Zvěřinův	Krakovec	lstivější	Baltimore	Novosedlice	lvů	Lotyška	licoměrničin	Langpaulův	autonomistka	multithreadový	Marvanová	Delfy	Chotěboř	makrovirus	dimethyladrazin	démonologický	chlápek	Ursínyová	doštěbetání	dbalejší	maturantka	generálův	aerolog	motoristův	košatina	maso	Galicie	kacířka	Zakřany	loretka	Zieleniecová	Hanzel	Hadrabová	kolegiální	dokonzumování	alotrium	filosofičtější	Managua	astronomie	dobalující	koprodukující	doznačený	líbit	dolíbání	Beklová	elektrárenský	hořečnatý	Rašovice	dometání	kontrolorův	afišistka	indosament	Velebová	Jendruščáková	ejhle	beroucí	Hajský	chamtivý	andropauza	filantropie	Kalvoda	lichoběžník	jankovitý	Císařův	malovávaný	auxologův	Telib	impérium	bázovat	doplutý	elipsovitější	Bambušková	karbonizace	Rýnovice	Josefův	Anetka	Mrázikův	kůzlečí	Houdek	klobouček	Uruguayec	erotika	Husserl	dofetování	domýšlivec	fylitový	Sedmihradsko	gravírovat	krajinářský	dostehování	Hostišová	doplýtvat	dobytý	dárcovství	hněvající	hicovaný	box	Písaříkův	
+
+Time taken to remove 100 words from the dictionary: 1ms
+
+
+dictionary_files/4_cz.dic with Bag 2 -- Time taken for dictionary construction, word picking and word removal: 20483ms, 0ms, 1ms
+
+
+Running simulation...with MagicalBag3
+=====================================
+
+
+Time taken to build the dictionary: 63026ms
+
+Added 75000 words from dictionary_files/4_cz.dic.
+
+Picking 100 words: adverbium	multiúčelový	hlad	difosfoglycerát	Jistebnice	hlavičkování	kastrovávat	Pézl	dodusání	dorvávat	hradiště	abstrahování	koreanistka	komunikát	Koriťákův	epidermický	Sigmundův	Doležel	Zvolský	dojednání	Vychroň	lišajův	desetičlenný	antidiskotéka	Pesničáková	Bangkok	aminofenol	autistův	Paříž	Matrinův	Kopáček	interferovat	behavioristův	celosměnový	Mikula	diurnistův	Slánský	atomista	kmihání	biotit	konvencionální	Orlíčková	feritový	Indermaurová	bulimický	lítačka	františkán	fakírův	Erhart	chimérický	dostupný	kvalifikující	Třtěnice	měkkýší	kořínkový	Hodžový	dovykládání	hnisání	hupkat	Otýlie	kárat	Malijec	Zvonařová	Vrtišková	mnohopólový	exkurse	doničený	lazebník	Jančíkův	bujarý	Ivana	korfbalistův	chovancův	Dygrín	dohlašovat	běloručka	doloupávaný	cívkovací	kontinuální	Bugárová	déčko	VTNP	chlorový	izomerizace	dvouplášťový	dopižlaný	Bočan	doradit	adhesivní	Inmarsat	jamkový	Svatoplukův	Radějov	manganičitan	hřbetování	Novozélanďan	chutný	Longyearbyen	kypivý	Sochůrek	
+
+Time taken to pick 100 words from the dictionary: 20ms
+Removing 100 words: milánský	Pastorkův	alpinistický	angiologie	máslovka	familiérní	mikrotextový	filtr	Mikulčákův	Kutáč	anglikánův	hybridový	bystřinný	Matouškův	labiodentální	Davle	Lamichová	lízátko	bát	dezorientovanější	despotičtější	káva	Chudobův	alegorický	dvoudenní	Starův	Kopřivná	Vašák	Izraelec	Bihellerův	Milerův	manitový	Těhníkův	SQL	Kordův	hoštěný	Hnátová	Feixová	Alighierův	jednokolejka	Bírko	Mandryszův	Drahonín	BBC	Dražíč	Kušniarová	ketonový	grafitovaný	hloubi	beztlaký	křeččí	ethernetový	Kambodžanka	jednoruký	markýrovanější	hysterie	mincový	importovávání	kajmanův	Chrtníky	Rusý	kupa	Kalifornie	důlní	majoránka	imigrace	Beránková	dobřinkat	hydrovosk	jury	koblihový	klopitelný	Korejtek	Jevišovka	inerciálnější	kombinatorický	dochovávat	kontingentní	Kopřiva	Mohrová	Bouvetův	mnohaposchoďový	Herníkův	Stříbrnice	lampa	kritiččin	matenější	Plchová	dvousetgramový	betaglukosid	Cempírkův	Krnov	aklamace	Volek	dóm	Lorenz	bafat	Píclová	aerosolový	chybení	
+
+Time taken to remove 100 words from the dictionary: 16ms
+
+
+dictionary_files/4_cz.dic with Bag 3 -- Time taken for dictionary construction, word picking and word removal: 63026ms, 20ms, 16ms
+
+
+Running simulation...with MagicalBag4
+=====================================
+
+
+Time taken to build the dictionary: 63ms
+
+Added 75000 words from dictionary_files/4_cz.dic.
+
+Picking 100 words: foniatrický	choratický	Ostrov	autoreferenční	běžet	kultický	Chýlková	mol	Vdovičík	krucifix	hlubný	Alžběta	kompliment	Chromec	Lufinková	dolupovat	Angelika	Fírerová	imatrikulovaný	mykorrhizní	měšťan	Bouma	merboltický	homeopat	dolívanější	bakšiš	Dúbravová	koule	kvadriatlonistka	košťálový	Kubišová	Viera	adiční	Anetčin	Boudová	Mikša	lanthanoid	astabilní	koženější	klínopisný	Nerudův	bojující	Tuma	cejchovačka	dívaný	močálový	dorozumívání	diftongizace	Pálka	dotěkat	mžikávat	koncipistův	luskaný	barvoměna	adjunktův	konferovat	Bělohoubkův	joint	Kosmáková	meandrující	doštukovat	kolísání	lavírovaný	halid	bakovský	dopářete	dlouhán	Vojířův	Vyšatová	eschatoložka	egalizace	hmat	ikebana	lágr	Novosádův	Tunákův	Ronaldův	Odehnal	bezbolestný	Pinčka	holedbat	latifundistčin	bolestínčin	antifašista	jda	bohorovnější	falšovatel	ikoničtější	doduplikovat	amerikanizování	dostižitelnější	Kábrtův	dotestovávání	Borovička	Pohoralý	kalafunování	lednový	dcerám	bohdalínský	Rulfová	
+
+Time taken to pick 100 words from the dictionary: 73ms
+Removing 100 words: mikroorganismus	dusíkatý	lidovecký	bruntálský	kvarteto	faunův	expresionistův	jednosměrný	Valentinův	Cotkytle	dvojkolový	Lubná	Papež	Zejbrdlíkův	adjustace	Farkašová	kolodium	mořeplavba	Starke	kříšený	Mišík	Trpísty	Bradáčová	donutit	anxiolytikum	Hornice	hlodat	Valdhansův	karbimid	Votava	mák	křečkovský	denervující	Kdousov	kyšický	Mič	Haščáková	lapidární	Krulichův	drilování	brumovický	dořvávání	nabagrovaný	aglutinovaný	Pozníkův	afirmace	dovečeřený	Prokšův	bystročický	evakuující	biokybernetika	Valdmanův	kuchyň	Dorušákův	dokonaný	anachroničtější	milosrdenství	korektor	legislativní	hendikepovat	dóza	RaJ	nabyvatelčin	matróna	Hérakleitův	design	bodláčí	hnízdní	Rovan	bukanýr	diskontovaný	kdožvíkde	burzovnictví	míruplný	chuďasův	dojem	demokratizace	Mikš	Křipský	kachlů	Prodašice	dvouženství	kaňon	Zavadil	mezikrok	Luba	hodinou	dešenický	dozorování	maznička	Pecháčův	celoplátěný	domluvení	hitlerovštější	kondolence	Filipcův	Zikmundův	makadam	distribuování	křemeňák	
+
+Time taken to remove 100 words from the dictionary: 65ms
+
+
+dictionary_files/4_cz.dic with Bag 4 -- Time taken for dictionary construction, word picking and word removal: 63ms, 73ms, 65ms
+
+
+Running simulation...with MagicalBag5
+=====================================
+
+
+Time taken to build the dictionary: 53ms
+
+Added 75000 words from dictionary_files/4_cz.dic.
+
+Picking 100 words: dozkoušený	inzertní	doválcování	kuchtiččin	jelení	anizotropie	nabalující	hliník	Andulin	Buzuluk	chudeřický	Hybšův	Vanderbiltův	Plavcův	humorističin	anarchie	klasifikování	Sůrová	diletant	Krčův	grafikův	adsorbovávání	modifikátor	karikování	doveden	delikvence	Klimentův	finální	Ljapunovov	kňourání	klopýtavý	Lipava	autoturista	Jakoubkův	kadeř	Křemží	dohrání	acetylenový	Trešlová	masérčin	falšovatelka	frazeologův	hlohový	kumštýřský	mlázovický	Nekmíř	Klentnice	karový	aminolýza	Klán	bezpříznakový	celkem	deregulovávání	Lízinčin	Rumíšek	Vrátno	Mayerův	kalvinismus	kousávanější	Vindušková	Lanžhot	dohořet	braný	Kolibův	jednotraktový	Feikův	Gituščin	křivsoudovský	dobásnění	katechetka	Elis	dochvástat	charakteristika	dokrájený	kontumační	donytí	Florián	břek	Paulíková	dotavení	kamenenský	Vorlová	barycentrum	dárkový	Ladin	alegorizování	Zachová	doutnající	interpolování	docukávat	korespondovat	Pytlounová	Kadeřábek	kumštýř	agronomie	dohonit	manažer	královský	gladiátorův	Klimčuk	
+
+Time taken to pick 100 words from the dictionary: 86ms
+Removing 100 words: fejetonistika	Velvet	kompostovat	driftování	Vojířův	Mešejdův	expanzionističtější	karabina	direktář	Rychtářův	důsledkový	Andromedin	Mokošín	dvousetkilometrový	inervační	Boublík	courák	datly	Haderková	medvědovitý	jednoděložný	kolovský	myšáček	Angolančin	dekonstruktivista	holističtější	Sysel	doměřovávat	Sechovský	deamináza	doštipovaný	Kozelová	ILO	Socha	faksimile	kanálek	devítimístný	konec	Kamilin	Gardské	bázlivec	hydromorfní	finesa	dopravník	iniciativní	maloobchodník	jihočech	Brož	Sykáčkův	forzírující	bezřetězový	hodna	Fiedlerův	diktovaný	malajský	Mahulenka	Kočov	astroarcheolog	medievalistčin	Schimmerův	Plhák	chrčivý	Helmer	Hlušičkův	Sprengerův	fikce	Lombardsko	Medek	kryptosystém	elegik	krystalový	kolébavější	Choratice	Mr	mřít	hromada	Nizozemsko	křídelní	Lojkův	kuchařštější	mokvání	dvoutraktový	derivovanější	Poláček	Vaněrka	milénium	buben	hydrogeologie	konspekt	chemoterapie	Rábův	behavioralismus	kamzíkový	ctěnější	Hosnedlův	Svojetice	Frýbův	kaligramový	Jurka	dichlorovaný	
+
+Time taken to remove 100 words from the dictionary: 79ms
+
+
+dictionary_files/4_cz.dic with Bag 5 -- Time taken for dictionary construction, word picking and word removal: 53ms, 86ms, 79ms
+
+
+Running simulation...with MagicalBag6
+=====================================
+
+
+Time taken to build the dictionary: 75ms
+
+Added 75000 words from dictionary_files/4_cz.dic.
+
+Picking 100 words: kolečko	hliněný	beztlaký	Bahníkův	Januš	antisemitštější	dynamoelektrický	jater	kozáčtější	nabalzámovanější	karbonatace	jmenovec	dvojzpěv	kronikářův	knihovna	Sokoleč	doznačený	Lovecký	došmudlat	kterémuž	kavaleristův	mrzení	Hutkův	házenkářka	Jakůbková	inventář	Marek	jelenicový	mrzoutštější	mineralogičtější	benchmark	etatistka	Sechovský	magnetooptičtější	bos	dotutlaný	civilizovanější	Guklhornův	biochemikův	Vytiskův	kreacionistčin	brunšvický	betonářství	Job	doeliminovat	biogerontoložčin	flétnista	Tománkův	grónský	Homolková	hyacinta	emfatičtější	chystat	masturbovávání	celnice	Havrill	Zámrsk	klín	drapákový	Gollová	dobíhávaný	Janouškovcův	kolíček	SPŠDaS	akutol	dousínat	hypochondrický	bandážista	Třebešín	Psáře	korelátor	konkurenceschopný	Klokanová	fotodegradace	nach	chvátávat	ghanský	deprivovat	Lesnice	klečmo	Růžená	Smidžárův	hněten	Pagáčová	jednokilometrový	Sovíkův	arakový	maloměšťák	morfonologický	diskreditovaný	dolízat	Záklasníkův	doizolovávaný	Gajdošík	kodifikování	islamizující	Kelich	daktylografický	montérštější	Martinusík	
+
+Time taken to pick 100 words from the dictionary: 81ms
+Removing 100 words: bakchantka	Malšice	Horosedly	dezodorizace	Lotka	hysteriččin	Salivarův	Hisemův	Faltová	biosyntéza	asiatův	blonďákův	Gubík	dočadit	mírumilovný	msta	fenoložčin	jemnostpánům	bednička	Kulštejnův	Ehler	dotřepat	bas	mandolinista	kapsářčin	abnormálnější	Chvalkovský	cerekvický	Grubner	Bednáův	měřený	Vyžice	interpretovávání	chmelový	chladit	Mezerův	Třemešné	monografický	magnetovací	Burkoň	Hojdarův	laškující	epenteze	lomecký	chladnokrevný	Horažďovice	balený	Vrátkov	Pěčín	cachtávat	ludvíkovský	decentralistický	efratský	farmakovigilance	inspirující	geotermický	dorolovat	Květin	Osypenkův	honeb	enteritida	Pajkoš	Humpolec	Pennigerový	loutnistčin	Ferona	Letáčkův	kyberkultura	dohledatelný	Arabčin	chtěn	Kubáčkův	Mcely	akcionářčin	dovršení	atribuce	Bečkův	chomutovský	došprtání	jodovaný	dopočtený	dokládací	motýlkův	dvojčitý	Brodců	Martinčin	manévrující	Parfusův	hodovník	Gröschlův	Mikulková	dabovat	exkvizitnější	Mahulenčin	brebentilka	bidlování	Tongančin	inkubovaný	Williamsův	lupínkový	
+
+Time taken to remove 100 words from the dictionary: 53ms
+
+
+dictionary_files/4_cz.dic with Bag 6 -- Time taken for dictionary construction, word picking and word removal: 75ms, 81ms, 53ms
