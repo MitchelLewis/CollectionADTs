@@ -30,7 +30,7 @@ import dictionary.exceptions.UnsupportedMagicalBagTypeException;
 public class WordPicker {
 
 	// Number of words picked/removed from each bag in the simulation, i.e. N.
-	final static int PICKS = 100;
+	final static int PICKS = 1000;
 	
 	// Maximum number of types of bags recognised by this WordPicker.
 	final static int MAX_BAG_TYPES = 6;
